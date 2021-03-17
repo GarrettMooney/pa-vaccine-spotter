@@ -1,56 +1,74 @@
 {
-  "id": 7557207,
+  "id": 7351198,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Clearfield",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "8878 Clearfield Curwensville",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16830",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "740",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-17T02:55:58.052+00:00"
+}
+{
+  "id": 7511168,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
   "city": "Philadelphia",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "9773 Roosevelt Blvd",
+  "address": "260 West Lehigh Avenue #80",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "19114",
+  "postal_code": "19133",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11127",
+  "provider_location_id": "4932",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T02:39:16.41+00:00"
+  "appointments_last_fetched": "2021-03-17T02:55:49.155+00:00"
 }
 {
-  "id": 7351188,
+  "id": 7483999,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Port Allegany",
+  "city": "Aston",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "59 North Main Street",
+  "address": "4400 Pennell Road",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16743",
+  "postal_code": "19014",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2474",
+  "provider_location_id": "1274",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T02:37:03.659+00:00"
+  "appointments_last_fetched": "2021-03-17T02:55:35.238+00:00"
 }
 {
-  "id": 7351191,
+  "id": 7364995,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Emporium",
+  "city": "Edwardsville",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "620 E Allegheny Avenue",
+  "address": "39 West Side Mall",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "15834",
+  "postal_code": "18704",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7850",
+  "provider_location_id": "2426",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T02:36:22.454+00:00"
+  "appointments_last_fetched": "2021-03-17T02:53:34.982+00:00"
 }
 {
   "id": 7351206,
@@ -68,23 +86,5 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "11016",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T02:36:21.654+00:00"
-}
-{
-  "id": 7351198,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Clearfield",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "8878 Clearfield Curwensville",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16830",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "740",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T02:34:40.65+00:00"
+  "appointments_last_fetched": "2021-03-17T02:52:28.467+00:00"
 }
