@@ -1,197 +1,20 @@
 {
-  "id": 7351188,
+  "id": 7351200,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Port Allegany",
+  "city": "Punxsutawney",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "59 North Main Street",
+  "address": "201 West Mahoning Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16743",
+  "postal_code": "15767",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2474",
+  "provider_location_id": "10975",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:54.55+00:00"
-}
-{
-  "id": 7364278,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Greenville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "335 Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16125",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3449",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:48.435+00:00"
-}
-{
-  "id": 7364976,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Allentown",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "27 N 7th Street, Suite 100",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "18101",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "6778",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:47.065+00:00"
-}
-{
-  "id": 42870529,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Somerset",
-  "name": "Somerset, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-SOMERSET",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:42.619+00:00"
-}
-{
-  "id": 54170682,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Huntingdon",
-  "name": "Weis Markets Huntingdon",
-  "state": "PA",
-  "address": "611 Fifteenth Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16652",
-  "appointments": [
-    {
-      "date": "2021-03-19",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "30",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:32.172+00:00"
-}
-{
-  "id": 54170735,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Philipsburg",
-  "name": "Weis Markets Philipsburg",
-  "state": "PA",
-  "address": "501 North Centre Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16866",
-  "appointments": [
-    {
-      "date": "2021-03-19",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "118",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:32.172+00:00"
-}
-{
-  "id": 54193196,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Wellsboro",
-  "name": "Weis Markets Wellsboro",
-  "state": "PA",
-  "address": "11798 Route 6",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16901",
-  "appointments": [
-    {
-      "date": "2021-03-19",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "198",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:32.172+00:00"
-}
-{
-  "id": 7364277,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Conneaut Lake",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "100 South Third Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16316",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10999",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:17.512+00:00"
-}
-{
-  "id": 7364300,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Huntingdon",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "9635 William Penn Highway",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16652",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "233",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:33:13.576+00:00"
-}
-{
-  "id": 7505153,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Sharon",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "811 East State Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16146",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3972",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:32:39.358+00:00"
+  "appointments_last_fetched": "2021-03-17T11:46:05.07+00:00"
 }
 {
   "id": 7351194,
@@ -209,5 +32,77 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7853",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-17T11:31:43.51+00:00"
+  "appointments_last_fetched": "2021-03-17T11:45:45.111+00:00"
+}
+{
+  "id": 7484648,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Broomall",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "2901 Springfield Road",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "19008",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1567",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-17T11:44:25.098+00:00"
+}
+{
+  "id": 7364278,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Greenville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "335 Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16125",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3449",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-17T11:43:15.966+00:00"
+}
+{
+  "id": 7364300,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Huntingdon",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "9635 William Penn Highway",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16652",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "233",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-17T11:42:46.487+00:00"
+}
+{
+  "id": 7362816,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "East Stroudsburg",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "128 N Courtland Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18301",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "170",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-17T11:42:39.6+00:00"
 }
