@@ -1,4 +1,76 @@
 {
+  "id": 7351148,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Union City",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1 East High Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16438",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1398",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-18T11:48:15.607+00:00"
+}
+{
+  "id": 42870468,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Altoona",
+  "name": "Altoona, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-ALTOONA",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-18T11:48:13.315+00:00"
+}
+{
+  "id": 11647160,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "State College",
+  "name": "State College, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-STATE COLLEGE",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-18T11:48:13.315+00:00"
+}
+{
+  "id": 7364277,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Conneaut Lake",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "100 South Third Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16316",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10999",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-18T11:48:11.482+00:00"
+}
+{
   "id": 60148511,
   "url": "https://c.ateb.com/15f5aede2e3b479b94e35e63c19473dd/",
   "city": "Erie",
@@ -18,64 +90,41 @@
   "provider_brand_name": "Wegmans",
   "provider_location_id": "62",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T11:38:41.279+00:00"
+  "appointments_last_fetched": "2021-03-18T11:47:53.093+00:00"
 }
 {
-  "id": 54170735,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Philipsburg",
-  "name": "Weis Markets Philipsburg",
-  "state": "PA",
-  "address": "501 North Centre Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16866",
-  "appointments": [
-    {
-      "date": "2021-03-20",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "118",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T11:37:54.585+00:00"
-}
-{
-  "id": 7351211,
+  "id": 7351188,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Towanda",
+  "city": "Port Allegany",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "77 Reuters Boulevard",
+  "address": "59 North Main Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "18848",
+  "postal_code": "16743",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1830",
+  "provider_location_id": "2474",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T11:37:38.877+00:00"
+  "appointments_last_fetched": "2021-03-18T11:45:06.693+00:00"
 }
 {
-  "id": 7351226,
+  "id": 7364979,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Halifax",
+  "city": "Tobyhanna",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "3773 Peters Mountain Rd.",
+  "address": "674 Route 196, Ste 14",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "17032",
+  "postal_code": "18466",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "4288",
+  "provider_location_id": "1955",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T11:35:37.777+00:00"
+  "appointments_last_fetched": "2021-03-18T11:44:37.385+00:00"
 }
