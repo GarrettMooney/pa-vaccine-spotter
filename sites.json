@@ -1,26 +1,4 @@
 {
-  "id": 60148510,
-  "url": "https://c.ateb.com/15f5aede2e3b479b94e35e63c19473dd/",
-  "city": "Erie",
-  "name": "ERIE PEACH ST.",
-  "state": "PA",
-  "address": "6143 Peach Street",
-  "provider": "wegmans",
-  "time_zone": "America/New_York",
-  "postal_code": "16509",
-  "appointments": [
-    {
-      "date": "2021-03-18"
-    }
-  ],
-  "provider_brand": "wegmans",
-  "carries_vaccine": null,
-  "provider_brand_name": "Wegmans",
-  "provider_location_id": "42",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:52:23.632+00:00"
-}
-{
   "id": 60148511,
   "url": "https://c.ateb.com/15f5aede2e3b479b94e35e63c19473dd/",
   "city": "Erie",
@@ -40,7 +18,48 @@
   "provider_brand_name": "Wegmans",
   "provider_location_id": "62",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:52:23.632+00:00"
+  "appointments_last_fetched": "2021-03-18T11:27:09.308+00:00"
+}
+{
+  "id": 54170735,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Philipsburg",
+  "name": "Weis Markets Philipsburg",
+  "state": "PA",
+  "address": "501 North Centre Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "16866",
+  "appointments": [
+    {
+      "date": "2021-03-20",
+      "type": "1st Dose 65+ COVID Vaccine"
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "118",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-18T11:26:55.587+00:00"
+}
+{
+  "id": 42870468,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Altoona",
+  "name": "Altoona, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-ALTOONA",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-18T11:26:43.686+00:00"
 }
 {
   "id": 42870529,
@@ -58,25 +77,7 @@
   "provider_brand_name": "CVS",
   "provider_location_id": "PA-SOMERSET",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:52:06.744+00:00"
-}
-{
-  "id": 7364276,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Meadville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "975 Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16335",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2380",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:50:09.246+00:00"
+  "appointments_last_fetched": "2021-03-18T11:26:43.686+00:00"
 }
 {
   "id": 7364278,
@@ -94,41 +95,41 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "3449",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:49:44+00:00"
+  "appointments_last_fetched": "2021-03-18T11:25:57.94+00:00"
 }
 {
-  "id": 7364277,
+  "id": 7351191,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Conneaut Lake",
+  "city": "Emporium",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "100 South Third Street",
+  "address": "620 E Allegheny Avenue",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16316",
+  "postal_code": "15834",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10999",
+  "provider_location_id": "7850",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:49:22.092+00:00"
+  "appointments_last_fetched": "2021-03-18T11:25:29.1+00:00"
 }
 {
-  "id": 7505153,
+  "id": 7362813,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Sharon",
+  "city": "East Stroudsburg",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "811 East State Street",
+  "address": "4551 Milford Road",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16146",
+  "postal_code": "18302",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3972",
+  "provider_location_id": "1800",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-18T10:48:52.268+00:00"
+  "appointments_last_fetched": "2021-03-18T11:25:06.823+00:00"
 }
