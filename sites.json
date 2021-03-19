@@ -1,20 +1,56 @@
 {
-  "id": 7351199,
+  "id": 42870529,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Somerset",
+  "name": "Somerset, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-SOMERSET",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-19T03:26:06.067+00:00"
+}
+{
+  "id": 7351182,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Dubois",
+  "city": "Mercer",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "431 Commons Drive",
+  "address": "100 Franklin Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "15801",
+  "postal_code": "16137",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10976",
+  "provider_location_id": "2769",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T02:57:20.904+00:00"
+  "appointments_last_fetched": "2021-03-19T03:23:51.083+00:00"
+}
+{
+  "id": 7351190,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Coudersport",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "207 Route 6 West",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16915",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1976",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-19T03:22:33.491+00:00"
 }
 {
   "id": 7505153,
@@ -32,5 +68,5 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "3972",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T02:53:58.781+00:00"
+  "appointments_last_fetched": "2021-03-19T03:22:21.398+00:00"
 }
