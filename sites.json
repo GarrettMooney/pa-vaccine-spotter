@@ -1,56 +1,20 @@
 {
-  "id": 7364276,
+  "id": 7364207,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Meadville",
+  "city": "Aliquippa",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "975 Market Street",
+  "address": "2302 Sheffield Road",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16335",
+  "postal_code": "15001",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2380",
+  "provider_location_id": "10888",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:18:45.898+00:00"
-}
-{
-  "id": 7364236,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Connellsville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "200 Memorial Blvd.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15425",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10964",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:17:47.623+00:00"
-}
-{
-  "id": 7364964,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Shenandoah",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "15 South Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17976",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "208",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:17:41.718+00:00"
+  "appointments_last_fetched": "2021-03-19T19:29:39.138+00:00"
 }
 {
   "id": 7351191,
@@ -68,7 +32,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7850",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:17:28.599+00:00"
+  "appointments_last_fetched": "2021-03-19T19:27:42.729+00:00"
 }
 {
   "id": 7351194,
@@ -86,7 +50,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7853",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:15:38.821+00:00"
+  "appointments_last_fetched": "2021-03-19T19:25:56.123+00:00"
 }
 {
   "id": 7351195,
@@ -104,59 +68,5 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2476",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:15:25.499+00:00"
-}
-{
-  "id": 7364958,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Shamokin",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "26 West Independence Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17872",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "205",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:15:22.638+00:00"
-}
-{
-  "id": 7351181,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Oil City",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "508 East Second Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16301",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1496",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:15:20.787+00:00"
-}
-{
-  "id": 7364298,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Hollidaysburg",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1201 Blair St",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16648",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "6738",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-19T19:13:48.712+00:00"
+  "appointments_last_fetched": "2021-03-19T19:25:47.59+00:00"
 }
