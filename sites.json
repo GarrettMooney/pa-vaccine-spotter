@@ -1,56 +1,20 @@
 {
-  "id": 7364281,
+  "id": 7351216,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Titusville",
+  "city": "Fayetteville",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "208 East Central Avenue",
+  "address": "5035 Lincoln Way East",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16354",
+  "postal_code": "17222",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "4616",
+  "provider_location_id": "232",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T02:38:44.558+00:00"
-}
-{
-  "id": 7491014,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Lancaster",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "59 North Queen Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17603",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "729",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T02:38:34.345+00:00"
-}
-{
-  "id": 7507552,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Harrisburg",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "304 Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17101",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "721",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T02:36:41.05+00:00"
+  "appointments_last_fetched": "2021-03-20T02:55:24.927+00:00"
 }
 {
   "id": 7351143,
@@ -68,5 +32,41 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "596",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T02:35:38.757+00:00"
+  "appointments_last_fetched": "2021-03-20T02:55:21.132+00:00"
+}
+{
+  "id": 7364242,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Bethlehem",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "610 Broad Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16242",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1548",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-20T02:54:23.333+00:00"
+}
+{
+  "id": 7351182,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Mercer",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "100 Franklin Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16137",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2769",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-20T02:53:08.574+00:00"
 }
