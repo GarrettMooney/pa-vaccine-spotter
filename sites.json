@@ -1,4 +1,22 @@
 {
+  "id": 7364281,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Titusville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "208 East Central Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16354",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "4616",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-20T02:38:44.558+00:00"
+}
+{
   "id": 7491014,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
   "city": "Lancaster",
@@ -14,5 +32,41 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "729",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T01:54:43.972+00:00"
+  "appointments_last_fetched": "2021-03-20T02:38:34.345+00:00"
+}
+{
+  "id": 7507552,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Harrisburg",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "304 Market Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17101",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "721",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-20T02:36:41.05+00:00"
+}
+{
+  "id": 7351143,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Corry",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "827 N. Center Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16407",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "596",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-20T02:35:38.757+00:00"
 }
