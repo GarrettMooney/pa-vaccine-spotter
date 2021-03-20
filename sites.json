@@ -1,130 +1,18 @@
 {
-  "id": 66543030,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Masontown",
-  "name": "Masontown, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-MASONTOWN",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T01:02:18.394+00:00"
-}
-{
-  "id": 42870529,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Somerset",
-  "name": "Somerset, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-SOMERSET",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T01:02:18.394+00:00"
-}
-{
-  "id": 13256833,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "South Williamsport",
-  "name": "South Williamsport, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-SOUTH WILLIAMSPORT",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T01:02:18.394+00:00"
-}
-{
-  "id": 60148511,
-  "url": "https://www.wegmans.com/covid-vaccine-registration/",
-  "city": "Erie",
-  "name": "ERIE WEST",
-  "state": "PA",
-  "address": "5028 West Ridge Road",
-  "provider": "wegmans",
-  "time_zone": "America/New_York",
-  "postal_code": "16506",
-  "appointments": [
-    {
-      "date": "2021-03-21"
-    }
-  ],
-  "provider_brand": "wegmans",
-  "carries_vaccine": null,
-  "provider_brand_name": "Wegmans",
-  "provider_location_id": "62",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T01:02:13.566+00:00"
-}
-{
-  "id": 7505153,
+  "id": 7491014,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Sharon",
+  "city": "Lancaster",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "811 East State Street",
+  "address": "59 North Queen Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16146",
+  "postal_code": "17603",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3972",
+  "provider_location_id": "729",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T00:59:41.691+00:00"
-}
-{
-  "id": 7351143,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Corry",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "827 N. Center Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16407",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "596",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T00:58:28.025+00:00"
-}
-{
-  "id": 7351199,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Dubois",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "431 Commons Drive",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15801",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10976",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-20T00:58:12.329+00:00"
+  "appointments_last_fetched": "2021-03-20T01:54:43.972+00:00"
 }
