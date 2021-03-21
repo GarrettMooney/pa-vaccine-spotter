@@ -1,814 +1,4 @@
 {
-  "id": 7364298,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Hollidaysburg",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1201 Blair St",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16648",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "6738",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:44.445+00:00"
-}
-{
-  "id": 7364237,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Scottdale",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "15 Centennial Way",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15683",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1709",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:43.439+00:00"
-}
-{
-  "id": 7364276,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Meadville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "975 Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16335",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2380",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:30.204+00:00"
-}
-{
-  "id": 7351182,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Mercer",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "100 Franklin Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16137",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2769",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:22.533+00:00"
-}
-{
-  "id": 7364233,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Uniontown",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "262 Connellsville Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15401",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1963",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:14.005+00:00"
-}
-{
-  "id": 42870468,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Altoona",
-  "name": "Altoona, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-ALTOONA",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:04.905+00:00"
-}
-{
-  "id": 66543030,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Masontown",
-  "name": "Masontown, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-MASONTOWN",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:04.905+00:00"
-}
-{
-  "id": 42870529,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Somerset",
-  "name": "Somerset, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-SOMERSET",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:04.905+00:00"
-}
-{
-  "id": 11647160,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "State College",
-  "name": "State College, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-STATE COLLEGE",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:04.905+00:00"
-}
-{
-  "id": 42870538,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Washington",
-  "name": "Washington, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-WASHINGTON",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:54:04.905+00:00"
-}
-{
-  "id": 7364236,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Connellsville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "200 Memorial Blvd.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15425",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10964",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:56.382+00:00"
-}
-{
-  "id": 7364278,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Greenville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "335 Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16125",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3449",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:55.586+00:00"
-}
-{
-  "id": 7364267,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Kittanning",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "165 Butler Road",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16201",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10998",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:46.399+00:00"
-}
-{
-  "id": 7351212,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Towanda",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "148 Ennis Lane",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "18848",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11084",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:45.913+00:00"
-}
-{
-  "id": 7364264,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Farrell",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "700 Sharon New Castle Rd.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16121",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1668",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:34.591+00:00"
-}
-{
-  "id": 7364277,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Conneaut Lake",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "100 South Third Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16316",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10999",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:34.218+00:00"
-}
-{
-  "id": 7351191,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Emporium",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "620 E Allegheny Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15834",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7850",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:33.589+00:00"
-}
-{
-  "id": 7351206,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Wellsboro",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "24 East Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16901",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11016",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:26.301+00:00"
-}
-{
-  "id": 7351202,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Tyrone",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1365 Logan Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16686",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "6739",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:24+00:00"
-}
-{
-  "id": 7351190,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Coudersport",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "207 Route 6 West",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16915",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1976",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:23.611+00:00"
-}
-{
-  "id": 7364300,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Huntingdon",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "9635 William Penn Highway",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16652",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "233",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:16.395+00:00"
-}
-{
-  "id": 7505153,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Sharon",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "811 East State Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16146",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3972",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:08.546+00:00"
-}
-{
-  "id": 7364258,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "New Castle",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "31 North Jefferson Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16101",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10990",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:07.277+00:00"
-}
-{
-  "id": 7351210,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Williamsport",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "14 Fifth Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17701",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "4415",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:53:04.805+00:00"
-}
-{
-  "id": 7364921,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Mt Union",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "101 East Shirley Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17066",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1495",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:52:53.735+00:00"
-}
-{
-  "id": 7351208,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Williamsport",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1913 East 3rd Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17701",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11036",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:52:25.761+00:00"
-}
-{
-  "id": 7364226,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Grindstone",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "6039 National Pike",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15442",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3443",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:52:24.689+00:00"
-}
-{
-  "id": 7351201,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Northern Cambria",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1120 Philadelphia Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15714",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1494",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:52:13.471+00:00"
-}
-{
-  "id": 7351193,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Kane",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "521 North Fraley Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16735",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1406",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:52:10.895+00:00"
-}
-{
-  "id": 7351179,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Franklin",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1020 Liberty Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16323",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11002",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:52:03.952+00:00"
-}
-{
-  "id": 7351200,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Punxsutawney",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "201 West Mahoning Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15767",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10975",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:59.149+00:00"
-}
-{
-  "id": 7351198,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Clearfield",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "8878 Clearfield Curwensville",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16830",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "740",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:55.873+00:00"
-}
-{
-  "id": 7351169,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Johnstown",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1501 Scalp Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15904",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10979",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:55.428+00:00"
-}
-{
-  "id": 7351173,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Johnstown",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "300 Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15901",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "803",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:54.584+00:00"
-}
-{
-  "id": 7351211,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Towanda",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "77 Reuters Boulevard",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "18848",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1830",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:54.184+00:00"
-}
-{
-  "id": 7351175,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Everett",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "211 East Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15537",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1429",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:53.469+00:00"
-}
-{
-  "id": 7351199,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Dubois",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "431 Commons Drive",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15801",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10976",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:45.486+00:00"
-}
-{
-  "id": 7351185,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "New Wilmington",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "135 South Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16142",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10994",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:44.889+00:00"
-}
-{
-  "id": 7351187,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Butler",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "200 Greater Butler Mart",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16001",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10983",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:40.287+00:00"
-}
-{
-  "id": 7351194,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Saint Marys",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "901 S Saint Marys Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15857",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7853",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:37.2+00:00"
-}
-{
-  "id": 7351181,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Oil City",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "508 East Second Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16301",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1496",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:34.724+00:00"
-}
-{
-  "id": 7364967,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Bloomsburg",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "2411 Columbia Blvd",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17815",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11038",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:33.917+00:00"
-}
-{
-  "id": 7351178,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Grove City",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "126 W. Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16127",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3447",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:33.717+00:00"
-}
-{
-  "id": 7351195,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Ridgway",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "101 Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15853",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2476",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:29.138+00:00"
-}
-{
-  "id": 7351168,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Windber",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1516 Jefferson Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15963",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1780",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:23.035+00:00"
-}
-{
   "id": 7366979,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
   "city": "Girard",
@@ -824,7 +14,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1699",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:19.783+00:00"
+  "appointments_last_fetched": "2021-03-21T11:24:35.709+00:00"
 }
 {
   "id": 7364242,
@@ -842,7 +32,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1548",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:51:00.103+00:00"
+  "appointments_last_fetched": "2021-03-21T11:24:16.746+00:00"
 }
 {
   "id": 7364257,
@@ -860,7 +50,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10991",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:50:35.24+00:00"
+  "appointments_last_fetched": "2021-03-21T11:23:53.024+00:00"
 }
 {
   "id": 7364206,
@@ -878,7 +68,97 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2480",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:50:32.037+00:00"
+  "appointments_last_fetched": "2021-03-21T11:23:49.755+00:00"
+}
+{
+  "id": 42870468,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Altoona",
+  "name": "Altoona, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-ALTOONA",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:46.604+00:00"
+}
+{
+  "id": 66543030,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Masontown",
+  "name": "Masontown, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-MASONTOWN",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:46.604+00:00"
+}
+{
+  "id": 42870529,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Somerset",
+  "name": "Somerset, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-SOMERSET",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:46.604+00:00"
+}
+{
+  "id": 11647160,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "State College",
+  "name": "State College, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-STATE COLLEGE",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:46.604+00:00"
+}
+{
+  "id": 42870538,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Washington",
+  "name": "Washington, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-WASHINGTON",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:46.604+00:00"
 }
 {
   "id": 7364288,
@@ -896,7 +176,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2382",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:50:26.918+00:00"
+  "appointments_last_fetched": "2021-03-21T11:23:45.084+00:00"
 }
 {
   "id": 7364229,
@@ -914,7 +194,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10962",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:50:10.875+00:00"
+  "appointments_last_fetched": "2021-03-21T11:23:29.698+00:00"
 }
 {
   "id": 7351188,
@@ -932,7 +212,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2474",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:50:09.785+00:00"
+  "appointments_last_fetched": "2021-03-21T11:23:29.655+00:00"
 }
 {
   "id": 7364281,
@@ -950,5 +230,2120 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "4616",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T10:50:09.775+00:00"
+  "appointments_last_fetched": "2021-03-21T11:23:28.354+00:00"
+}
+{
+  "id": 7364298,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Hollidaysburg",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1201 Blair St",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16648",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "6738",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:20.683+00:00"
+}
+{
+  "id": 7364237,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Scottdale",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "15 Centennial Way",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15683",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1709",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:23:20.259+00:00"
+}
+{
+  "id": 7364276,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Meadville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "975 Market Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16335",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2380",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:59.902+00:00"
+}
+{
+  "id": 2713452,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "8828 FRANKFORD AVE",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19136",
+  "appointments": [
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "13141",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:55.059+00:00"
+}
+{
+  "id": 2713455,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "7001 FRANKFORD AVE",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19135",
+  "appointments": [
+    {
+      "time": "2021-03-26T08:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "4926",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:55.059+00:00"
+}
+{
+  "id": 2713450,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "10000 BUSTLETON AVE",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19116",
+  "appointments": [
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "7544",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:55.059+00:00"
+}
+{
+  "id": 7351182,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Mercer",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "100 Franklin Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16137",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2769",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:51.971+00:00"
+}
+{
+  "id": 7364233,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Uniontown",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "262 Connellsville Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15401",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1963",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:45.783+00:00"
+}
+{
+  "id": 7364236,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Connellsville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "200 Memorial Blvd.",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15425",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10964",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:26.081+00:00"
+}
+{
+  "id": 7364278,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Greenville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "335 Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16125",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3449",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:25.327+00:00"
+}
+{
+  "id": 7364267,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Kittanning",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "165 Butler Road",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16201",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10998",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:15.395+00:00"
+}
+{
+  "id": 7351212,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Towanda",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "148 Ennis Lane",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18848",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11084",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:15.273+00:00"
+}
+{
+  "id": 7364264,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Farrell",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "700 Sharon New Castle Rd.",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16121",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1668",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:03.403+00:00"
+}
+{
+  "id": 7364277,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Conneaut Lake",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "100 South Third Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16316",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10999",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:02.946+00:00"
+}
+{
+  "id": 7351191,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Emporium",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "620 E Allegheny Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15834",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "7850",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:22:02.134+00:00"
+}
+{
+  "id": 7351206,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Wellsboro",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "24 East Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16901",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11016",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:54.941+00:00"
+}
+{
+  "id": 7351202,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Tyrone",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1365 Logan Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16686",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "6739",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:52.817+00:00"
+}
+{
+  "id": 7351190,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Coudersport",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "207 Route 6 West",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16915",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1976",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:52.643+00:00"
+}
+{
+  "id": 7364300,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Huntingdon",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "9635 William Penn Highway",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16652",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "233",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:45.561+00:00"
+}
+{
+  "id": 7505153,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Sharon",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "811 East State Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16146",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3972",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:37.277+00:00"
+}
+{
+  "id": 7364258,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Castle",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "31 North Jefferson Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16101",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10990",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:35.93+00:00"
+}
+{
+  "id": 7351210,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Williamsport",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "14 Fifth Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17701",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "4415",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:32.59+00:00"
+}
+{
+  "id": 7364921,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Mt Union",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "101 East Shirley Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17066",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1495",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:21.54+00:00"
+}
+{
+  "id": 7351208,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Williamsport",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1913 East 3rd Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17701",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11036",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.222+00:00"
+}
+{
+  "id": 2713486,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "2014 S BROAD ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19145",
+  "appointments": [
+    {
+      "time": "2021-03-26T07:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T07:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T08:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T08:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T08:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "3791",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 2713484,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "1800 SOUTH ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19146",
+  "appointments": [
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "12084",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 2713482,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "1617 JOHN F KENNEDY BLVD",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19103",
+  "appointments": [
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "7336",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 2713480,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "1 S BROAD ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19107",
+  "appointments": [
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "15336",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 2713483,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Health System Pharmacy",
+  "state": "PA",
+  "address": "1334 BAINBRIDGE ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19147",
+  "appointments": [
+    {
+      "time": "2021-03-26T08:45:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:15:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:45:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:15:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:15:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:45:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:45:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:15:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "16519",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 2713479,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "1101 LOCUST ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19107",
+  "appointments": [
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T16:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "1256",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 2713485,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Community Pharmacy",
+  "state": "PA",
+  "address": "3550 MARKET ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19104",
+  "appointments": [
+    {
+      "time": "2021-03-26T11:15:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "21251",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:21:00.219+00:00"
+}
+{
+  "id": 7364226,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Grindstone",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "6039 National Pike",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15442",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3443",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:58.691+00:00"
+}
+{
+  "id": 7351201,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Northern Cambria",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1120 Philadelphia Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15714",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1494",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:47.631+00:00"
+}
+{
+  "id": 7351193,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Kane",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "521 North Fraley Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16735",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1406",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:45.981+00:00"
+}
+{
+  "id": 7351179,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Franklin",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1020 Liberty Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16323",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11002",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:37.959+00:00"
+}
+{
+  "id": 7351200,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Punxsutawney",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "201 West Mahoning Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15767",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10975",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:34.17+00:00"
+}
+{
+  "id": 7351198,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Clearfield",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "8878 Clearfield Curwensville",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16830",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "740",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:29.996+00:00"
+}
+{
+  "id": 7351169,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Johnstown",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1501 Scalp Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15904",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10979",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:29.284+00:00"
+}
+{
+  "id": 7351173,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Johnstown",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "300 Market Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15901",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "803",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:29.085+00:00"
+}
+{
+  "id": 7351211,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Towanda",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "77 Reuters Boulevard",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18848",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1830",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:21.756+00:00"
+}
+{
+  "id": 7351175,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Everett",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "211 East Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15537",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1429",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:21.376+00:00"
+}
+{
+  "id": 7351199,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Dubois",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "431 Commons Drive",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15801",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10976",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:14.152+00:00"
+}
+{
+  "id": 7351185,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Wilmington",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "135 South Market Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16142",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10994",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:13.501+00:00"
+}
+{
+  "id": 7351187,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Butler",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "200 Greater Butler Mart",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16001",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10983",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:07.918+00:00"
+}
+{
+  "id": 7351194,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Saint Marys",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "901 S Saint Marys Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15857",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "7853",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:06.128+00:00"
+}
+{
+  "id": 7351181,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Oil City",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "508 East Second Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16301",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1496",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:03.768+00:00"
+}
+{
+  "id": 7364967,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Bloomsburg",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "2411 Columbia Blvd",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17815",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11038",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:02.321+00:00"
+}
+{
+  "id": 7351178,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Grove City",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "126 W. Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16127",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3447",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:20:02.278+00:00"
+}
+{
+  "id": 7364958,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Shamokin",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "26 West Independence Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17872",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "205",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:19:57.954+00:00"
+}
+{
+  "id": 7351195,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Ridgway",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "101 Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15853",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2476",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:19:57.817+00:00"
+}
+{
+  "id": 7351168,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Windber",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1516 Jefferson Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15963",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1780",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:19:52.323+00:00"
+}
+{
+  "id": 2713472,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "PHILADELPHIA",
+  "name": "Walgreen Drug Store",
+  "state": "PA",
+  "address": "4201 N BROAD ST",
+  "provider": "walgreens",
+  "time_zone": "America/New_York",
+  "postal_code": "19140",
+  "appointments": [
+    {
+      "time": "2021-03-26T08:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T08:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T08:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T09:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T10:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T11:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T12:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T14:40:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:00:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer"
+    },
+    {
+      "time": "2021-03-26T15:20:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only"
+    }
+  ],
+  "provider_brand": "walgreens",
+  "carries_vaccine": null,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "4115",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T11:14:14.914+00:00"
 }
