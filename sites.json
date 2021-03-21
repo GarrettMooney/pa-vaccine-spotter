@@ -14,43 +14,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "3972",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:16:19.045+00:00"
-}
-{
-  "id": 66543030,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Masontown",
-  "name": "Masontown, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-MASONTOWN",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:54.291+00:00"
-}
-{
-  "id": 42870529,
-  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
-  "city": "Somerset",
-  "name": "Somerset, PA",
-  "state": "PA",
-  "address": null,
-  "provider": "cvs",
-  "time_zone": null,
-  "postal_code": null,
-  "appointments": [],
-  "provider_brand": "cvs",
-  "carries_vaccine": true,
-  "provider_brand_name": "CVS",
-  "provider_location_id": "PA-SOMERSET",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:54.291+00:00"
+  "appointments_last_fetched": "2021-03-21T19:25:48.43+00:00"
 }
 {
   "id": 7351193,
@@ -68,25 +32,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1406",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:28.907+00:00"
-}
-{
-  "id": 7351224,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Newport",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "10 Newport Plaza",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17074",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3804",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:26.818+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:54.179+00:00"
 }
 {
   "id": 7351201,
@@ -104,7 +50,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1494",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:24.179+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:49.466+00:00"
 }
 {
   "id": 7351179,
@@ -122,7 +68,25 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "11002",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:18.191+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:44.368+00:00"
+}
+{
+  "id": 66543030,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Masontown",
+  "name": "Masontown, PA",
+  "state": "PA",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
+  "appointments": [],
+  "provider_brand": "cvs",
+  "carries_vaccine": true,
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-MASONTOWN",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T19:24:44.315+00:00"
 }
 {
   "id": 7351175,
@@ -140,7 +104,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1429",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:09.926+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:35.747+00:00"
 }
 {
   "id": 7351200,
@@ -158,25 +122,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10975",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:09.022+00:00"
-}
-{
-  "id": 7351169,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Johnstown",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1501 Scalp Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15904",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10979",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:08.832+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:35.252+00:00"
 }
 {
   "id": 7351198,
@@ -194,7 +140,25 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "740",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:15:08.358+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:34.47+00:00"
+}
+{
+  "id": 7351169,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Johnstown",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1501 Scalp Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15904",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10979",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-21T19:24:34.38+00:00"
 }
 {
   "id": 7351199,
@@ -212,7 +176,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10976",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:54.298+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:20.796+00:00"
 }
 {
   "id": 7351194,
@@ -230,7 +194,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7853",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:51.952+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:18.909+00:00"
 }
 {
   "id": 7364967,
@@ -248,7 +212,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "11038",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:49.63+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:16.707+00:00"
 }
 {
   "id": 7351181,
@@ -266,25 +230,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1496",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:47.302+00:00"
-}
-{
-  "id": 7364958,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Shamokin",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "26 West Independence Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17872",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "205",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:39.225+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:14.314+00:00"
 }
 {
   "id": 7351195,
@@ -302,7 +248,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2476",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:37.264+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:04.906+00:00"
 }
 {
   "id": 7351168,
@@ -320,7 +266,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1780",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:35.765+00:00"
+  "appointments_last_fetched": "2021-03-21T19:24:03.05+00:00"
 }
 {
   "id": 7484651,
@@ -338,7 +284,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "11116",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:21.861+00:00"
+  "appointments_last_fetched": "2021-03-21T19:23:48.228+00:00"
 }
 {
   "id": 7364242,
@@ -356,7 +302,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1548",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:14:12.34+00:00"
+  "appointments_last_fetched": "2021-03-21T19:23:39.307+00:00"
 }
 {
   "id": 7351188,
@@ -374,7 +320,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2474",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:13:20.59+00:00"
+  "appointments_last_fetched": "2021-03-21T19:22:52.948+00:00"
 }
 {
   "id": 7364281,
@@ -392,7 +338,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "4616",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:13:17.26+00:00"
+  "appointments_last_fetched": "2021-03-21T19:22:49.58+00:00"
 }
 {
   "id": 7364276,
@@ -410,7 +356,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2380",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:12:55.556+00:00"
+  "appointments_last_fetched": "2021-03-21T19:22:28.184+00:00"
 }
 {
   "id": 7351182,
@@ -428,7 +374,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2769",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:12:40.063+00:00"
+  "appointments_last_fetched": "2021-03-21T19:22:08.471+00:00"
 }
 {
   "id": 7364278,
@@ -446,7 +392,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "3449",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:12:15.974+00:00"
+  "appointments_last_fetched": "2021-03-21T19:21:45.615+00:00"
 }
 {
   "id": 7351191,
@@ -464,7 +410,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7850",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:11:59.418+00:00"
+  "appointments_last_fetched": "2021-03-21T19:21:29.855+00:00"
 }
 {
   "id": 7364277,
@@ -482,7 +428,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10999",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:11:58.982+00:00"
+  "appointments_last_fetched": "2021-03-21T19:21:28.932+00:00"
 }
 {
   "id": 7364264,
@@ -500,7 +446,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1668",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:11:57.873+00:00"
+  "appointments_last_fetched": "2021-03-21T19:21:28.555+00:00"
 }
 {
   "id": 7351190,
@@ -518,5 +464,5 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1976",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-21T19:11:48.39+00:00"
+  "appointments_last_fetched": "2021-03-21T19:21:18.355+00:00"
 }
