@@ -1,22 +1,4 @@
 {
-  "id": 7351118,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Montrose",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "801 Grow Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "18801",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11082",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:43:35.182+00:00"
-}
-{
   "id": 54170704,
   "url": "https://www.weismarkets.com/pharmacy-services",
   "city": "Altoona",
@@ -28,6 +10,10 @@
   "postal_code": "16602",
   "appointments": [
     {
+      "date": "2021-03-23",
+      "type": "1st Dose 65+ COVID Vaccine"
+    },
+    {
       "date": "2021-03-25",
       "type": "1st Dose 65+ COVID Vaccine"
     }
@@ -37,53 +23,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "64",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
-}
-{
-  "id": 54170684,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Burnham",
-  "name": "Weis Markets Burnham",
-  "state": "PA",
-  "address": "224 North Logan Boulevard",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17009",
-  "appointments": [
-    {
-      "date": "2021-03-25",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "35",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
-}
-{
-  "id": 54170744,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Harrisburg",
-  "name": "Weis Markets Harrisburg",
-  "state": "PA",
-  "address": "3885 Union Deposit Road",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17109",
-  "appointments": [
-    {
-      "date": "2021-03-23",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "131",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54170682,
@@ -110,7 +50,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "30",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54170675,
@@ -141,7 +81,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "14",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54170680,
@@ -168,30 +108,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "22",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
-}
-{
-  "id": 54193197,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Mechanicsburg",
-  "name": "Weis Markets Mechanicsburg",
-  "state": "PA",
-  "address": "2150 Bumble Bee Hollow Road",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17055",
-  "appointments": [
-    {
-      "date": "2021-03-23",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "199",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54193199,
@@ -214,7 +131,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "203",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54170686,
@@ -237,7 +154,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "37",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54170735,
@@ -251,6 +168,10 @@
   "postal_code": "16866",
   "appointments": [
     {
+      "date": "2021-03-23",
+      "type": "1st Dose 65+ COVID Vaccine"
+    },
+    {
       "date": "2021-03-24",
       "type": "1st Dose 65+ COVID Vaccine"
     }
@@ -260,7 +181,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "118",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54193152,
@@ -283,7 +204,53 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "137",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
+}
+{
+  "id": 54170696,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "State College",
+  "name": "Weis Markets State College",
+  "state": "PA",
+  "address": "1471 Martin Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "16803",
+  "appointments": [
+    {
+      "date": "2021-03-25",
+      "type": "1st Dose 65+ COVID Vaccine"
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "51",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
+}
+{
+  "id": 54170685,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Sunbury",
+  "name": "Weis Markets Sunbury",
+  "state": "PA",
+  "address": "1100 North Fourth Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17801",
+  "appointments": [
+    {
+      "date": "2021-03-24",
+      "type": "1st Dose 65+ COVID Vaccine"
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "36",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 54193196,
@@ -310,48 +277,7 @@
   "provider_brand_name": "Weis",
   "provider_location_id": "198",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
-}
-{
-  "id": 54193177,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "West Lawn",
-  "name": "Weis Markets West Lawn",
-  "state": "PA",
-  "address": "1112 West Wyomissing Blvd",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "19609",
-  "appointments": [
-    {
-      "date": "2021-03-23",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "175",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:47.333+00:00"
-}
-{
-  "id": 7351182,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Mercer",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "100 Franklin Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16137",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2769",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:44.731+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:41.327+00:00"
 }
 {
   "id": 7364278,
@@ -369,7 +295,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "3449",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:17.646+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:23.839+00:00"
 }
 {
   "id": 7351191,
@@ -387,25 +313,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7850",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:04.412+00:00"
-}
-{
-  "id": 7364277,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Conneaut Lake",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "100 South Third Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16316",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10999",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:42:01.109+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:09.857+00:00"
 }
 {
   "id": 7351190,
@@ -423,7 +331,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1976",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:41:55.595+00:00"
+  "appointments_last_fetched": "2021-03-22T20:25:00.496+00:00"
 }
 {
   "id": 60148510,
@@ -445,43 +353,7 @@
   "provider_brand_name": "Wegmans",
   "provider_location_id": "42",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:41:55.247+00:00"
-}
-{
-  "id": 7364300,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Huntingdon",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "9635 William Penn Highway",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16652",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "233",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:41:43.898+00:00"
-}
-{
-  "id": 7507567,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Steelton",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "124 South Front Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17113",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1304",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:41:19.831+00:00"
+  "appointments_last_fetched": "2021-03-22T20:24:27.482+00:00"
 }
 {
   "id": 7351194,
@@ -499,43 +371,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7853",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:40:15.208+00:00"
-}
-{
-  "id": 7351187,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Butler",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "200 Greater Butler Mart",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16001",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10983",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:40:06.146+00:00"
-}
-{
-  "id": 7364958,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Shamokin",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "26 West Independence Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17872",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "205",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:40:00.719+00:00"
+  "appointments_last_fetched": "2021-03-22T20:23:15.46+00:00"
 }
 {
   "id": 7351195,
@@ -553,5 +389,5 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2476",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-22T19:39:56.214+00:00"
+  "appointments_last_fetched": "2021-03-22T20:22:56.236+00:00"
 }
