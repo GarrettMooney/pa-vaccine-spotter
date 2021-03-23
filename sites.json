@@ -1,4 +1,76 @@
 {
+  "id": 7351194,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Saint Marys",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "901 S Saint Marys Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15857",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "7853",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T21:35:11.11+00:00"
+}
+{
+  "id": 7351185,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Wilmington",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "135 South Market Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16142",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10994",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T21:35:05.85+00:00"
+}
+{
+  "id": 7351195,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Ridgway",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "101 Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15853",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2476",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T21:34:52.232+00:00"
+}
+{
+  "id": 7364242,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Bethlehem",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "610 Broad Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16242",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1548",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T21:34:33.003+00:00"
+}
+{
   "id": 60148510,
   "url": "https://www.wegmans.com/covid-vaccine-registration/",
   "city": "Erie",
@@ -18,72 +90,40 @@
   "provider_brand_name": "Wegmans",
   "provider_location_id": "42",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:18:39.462+00:00"
+  "appointments_last_fetched": "2021-03-23T21:34:05.387+00:00"
 }
 {
-  "id": 7508768,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Lancaster",
-  "name": "Rite Aid",
+  "id": 60148576,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Warrington",
+  "name": "WARRINGTON",
   "state": "PA",
-  "address": "825A East Chestnut Street",
-  "provider": "rite_aid",
+  "address": "1405 Main St",
+  "provider": "wegmans",
   "time_zone": "America/New_York",
-  "postal_code": "17602",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "4684",
+  "postal_code": "18976",
+  "appointments": [
+    {
+      "date": "2021-03-27"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "8",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:18:10.495+00:00"
+  "appointments_last_fetched": "2021-03-23T21:34:05.387+00:00"
 }
 {
-  "id": 7351193,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Kane",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "521 North Fraley Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16735",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1406",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:18:09.112+00:00"
-}
-{
-  "id": 7351194,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Saint Marys",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "901 S Saint Marys Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15857",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7853",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:17:39.601+00:00"
-}
-{
-  "id": 54193157,
+  "id": 54170679,
   "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Bethlehem",
-  "name": "Weis Markets Bethlehem",
+  "city": "Newport",
+  "name": "Weis Markets Newport",
   "state": "PA",
-  "address": "5580 Crawford Drive",
+  "address": "316 Walnut Street",
   "provider": "weis",
   "time_zone": "America/New_York",
-  "postal_code": "18017",
+  "postal_code": "17074",
   "appointments": [
     {
       "date": "2021-03-25",
@@ -93,91 +133,9 @@
   "provider_brand": "weis",
   "carries_vaccine": null,
   "provider_brand_name": "Weis",
-  "provider_location_id": "144",
+  "provider_location_id": "20",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:17:22.038+00:00"
-}
-{
-  "id": 54193192,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Bloomsburg",
-  "name": "Weis Markets Bloomsburg",
-  "state": "PA",
-  "address": "725 Columbia Boulevard",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17815",
-  "appointments": [
-    {
-      "date": "2021-03-24",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "192",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:17:22.038+00:00"
-}
-{
-  "id": 54170698,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Lancaster",
-  "name": "Weis Markets Lancaster",
-  "state": "PA",
-  "address": "1603 Lincoln Highway East",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17602",
-  "appointments": [
-    {
-      "date": "2021-03-24",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "55",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:17:22.038+00:00"
-}
-{
-  "id": 7351195,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Ridgway",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "101 Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15853",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2476",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:17:21.477+00:00"
-}
-{
-  "id": 7364288,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Erie",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "163 West 26th Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16508",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2382",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:16:14.778+00:00"
+  "appointments_last_fetched": "2021-03-23T21:33:49.027+00:00"
 }
 {
   "id": 7364233,
@@ -195,7 +153,43 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1963",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:15:25.819+00:00"
+  "appointments_last_fetched": "2021-03-23T21:32:52.012+00:00"
+}
+{
+  "id": 7364953,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Dover",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "2901 Carlisle Road",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17315",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1894",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T21:32:46.152+00:00"
+}
+{
+  "id": 7364267,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Kittanning",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "165 Butler Road",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16201",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10998",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T21:32:24.785+00:00"
 }
 {
   "id": 7364227,
@@ -213,61 +207,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1514",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:14:48.864+00:00"
-}
-{
-  "id": 7364278,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Greenville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "335 Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16125",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3449",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:14:47.569+00:00"
-}
-{
-  "id": 7364964,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Shenandoah",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "15 South Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17976",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "208",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:14:46.881+00:00"
-}
-{
-  "id": 7364950,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "York",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1200 West Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17404",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "451",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:14:45.016+00:00"
+  "appointments_last_fetched": "2021-03-23T21:32:19.932+00:00"
 }
 {
   "id": 7351191,
@@ -285,5 +225,5 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7850",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T21:14:36.5+00:00"
+  "appointments_last_fetched": "2021-03-23T21:32:08.004+00:00"
 }
