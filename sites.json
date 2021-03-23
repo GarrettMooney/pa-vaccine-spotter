@@ -1,384 +1,56 @@
 {
-  "id": 7364278,
+  "id": 7351227,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Greenville",
+  "city": "Bellefonte",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "335 Main Street",
+  "address": "821 East Bishop Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16125",
+  "postal_code": "16823",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3449",
+  "provider_location_id": "11015",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:24:34.899+00:00"
+  "appointments_last_fetched": "2021-03-23T14:48:09.521+00:00"
 }
 {
-  "id": 7351191,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Emporium",
-  "name": "Rite Aid",
+  "id": 66543030,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Masontown",
+  "name": "Masontown, PA",
   "state": "PA",
-  "address": "620 E Allegheny Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15834",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
   "appointments": [],
-  "provider_brand": "rite_aid",
+  "provider_brand": "cvs",
   "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7850",
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-MASONTOWN",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:24:16.775+00:00"
+  "appointments_last_fetched": "2021-03-23T14:47:27.33+00:00"
 }
 {
-  "id": 7351190,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Coudersport",
-  "name": "Rite Aid",
+  "id": 42870529,
+  "url": "https://www.cvs.com/immunizations/covid-19-vaccine",
+  "city": "Somerset",
+  "name": "Somerset, PA",
   "state": "PA",
-  "address": "207 Route 6 West",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16915",
+  "address": null,
+  "provider": "cvs",
+  "time_zone": null,
+  "postal_code": null,
   "appointments": [],
-  "provider_brand": "rite_aid",
+  "provider_brand": "cvs",
   "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1976",
+  "provider_brand_name": "CVS",
+  "provider_location_id": "PA-SOMERSET",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:24:08.354+00:00"
-}
-{
-  "id": 54170682,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Huntingdon",
-  "name": "Weis Markets Huntingdon",
-  "state": "PA",
-  "address": "611 Fifteenth Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16652",
-  "appointments": [
-    {
-      "date": "2021-03-24",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "30",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:24:06.568+00:00"
-}
-{
-  "id": 54170675,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Jersey Shore",
-  "name": "Weis Markets Jersey Shore",
-  "state": "PA",
-  "address": "1440 Allegheny Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17740",
-  "appointments": [
-    {
-      "date": "2021-03-24",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "14",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:24:06.568+00:00"
-}
-{
-  "id": 54170690,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Lancaster",
-  "name": "Weis Markets Lancaster",
-  "state": "PA",
-  "address": "1204 Millersville Pike",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17603",
-  "appointments": [
-    {
-      "date": "2021-03-24",
-      "type": "1st Dose 65+ COVID Vaccine"
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "41",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:24:06.568+00:00"
-}
-{
-  "id": 774002,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Latrobe",
-  "name": "Latrobe Supercenter",
-  "state": "PA",
-  "address": "100 Colony Ln",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15650",
-  "appointments": [
-    {
-      "time": "2021-03-27T16:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T11:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T11:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T15:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T15:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T15:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T11:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T11:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T14:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T14:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "2502",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:23:59.745+00:00"
-}
-{
-  "id": 7364920,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Harrisburg",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "2103 N. Third Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17110",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1887",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:23:55.537+00:00"
-}
-{
-  "id": 774074,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Tamaqua",
-  "name": "Tamaqua Supercenter",
-  "state": "PA",
-  "address": "35 Plaza Dr",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "18252",
-  "appointments": [
-    {
-      "time": "2021-03-29T11:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T14:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "3634",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:23:48.243+00:00"
-}
-{
-  "id": 774054,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Selinsgrove",
-  "name": "Selinsgrove Supercenter",
-  "state": "PA",
-  "address": "980 N Susquehanna Trl",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "17870",
-  "appointments": [
-    {
-      "time": "2021-03-27T12:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-27T12:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-27T14:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T10:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T10:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T11:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T11:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T11:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T12:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T12:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T12:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T15:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T15:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T15:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T16:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T16:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-28T16:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T11:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T11:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T12:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:20:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T15:40:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    },
-    {
-      "time": "2021-03-29T16:00:00.000-04:00",
-      "type": "JANSSEN VACCINE COVID-19 INJ"
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "2185",
-  "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:23:47.537+00:00"
+  "appointments_last_fetched": "2021-03-23T14:47:27.33+00:00"
 }
 {
   "id": 7351193,
@@ -396,7 +68,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1406",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:55.662+00:00"
+  "appointments_last_fetched": "2021-03-23T14:47:25.568+00:00"
 }
 {
   "id": 7351200,
@@ -414,7 +86,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10975",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:44.073+00:00"
+  "appointments_last_fetched": "2021-03-23T14:47:13.965+00:00"
 }
 {
   "id": 7351179,
@@ -432,7 +104,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "11002",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:39.796+00:00"
+  "appointments_last_fetched": "2021-03-23T14:47:09.472+00:00"
 }
 {
   "id": 7351194,
@@ -450,7 +122,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "7853",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:28.425+00:00"
+  "appointments_last_fetched": "2021-03-23T14:46:58.792+00:00"
 }
 {
   "id": 7351199,
@@ -468,7 +140,7 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "10976",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:18.258+00:00"
+  "appointments_last_fetched": "2021-03-23T14:46:48.076+00:00"
 }
 {
   "id": 7351181,
@@ -486,7 +158,25 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1496",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:17.176+00:00"
+  "appointments_last_fetched": "2021-03-23T14:46:45.98+00:00"
+}
+{
+  "id": 7364958,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Shamokin",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "26 West Independence Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17872",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "205",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:42.349+00:00"
 }
 {
   "id": 7351195,
@@ -504,7 +194,25 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "2476",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:22:07.852+00:00"
+  "appointments_last_fetched": "2021-03-23T14:46:37.392+00:00"
+}
+{
+  "id": 7351168,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Windber",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1516 Jefferson Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15963",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1780",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:28.786+00:00"
 }
 {
   "id": 7364242,
@@ -522,25 +230,395 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "1548",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:21:53.534+00:00"
+  "appointments_last_fetched": "2021-03-23T14:46:23.522+00:00"
 }
 {
-  "id": 7351188,
+  "id": 60148498,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Collegeville",
+  "name": "COLLEGEVILLE",
+  "state": "PA",
+  "address": "600 Commerce Drive",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "19426",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "68",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148505,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Downingtown",
+  "name": "DOWNINGTOWN",
+  "state": "PA",
+  "address": "1056 East Lancaster Avenue",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "19335",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "41",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148511,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Erie",
+  "name": "ERIE WEST",
+  "state": "PA",
+  "address": "5028 West Ridge Road",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "16506",
+  "appointments": [
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "62",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148500,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Glen Mills",
+  "name": "CONCORDVILLE",
+  "state": "PA",
+  "address": "100 Applied Bank Blvd",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "19342",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "85",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148533,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "King of Prussia",
+  "name": "KING OF PRUSSIA",
+  "state": "PA",
+  "address": "1 Village Dr",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "19406",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "48",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148535,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Lancaster",
+  "name": "LANCASTER",
+  "state": "PA",
+  "address": "2000 Crossings Blvd",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "17601",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "90",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148540,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Malvern",
+  "name": "MALVERN",
+  "state": "PA",
+  "address": "50 Foundry Way",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "19355",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "43",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148522,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Mechanicsburg",
+  "name": "HARRISBURG",
+  "state": "PA",
+  "address": "6416 Carlisle Pike Suite 2000",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "17050",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "27",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148547,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "North Wales",
+  "name": "MONTGOMERYVILLE",
+  "state": "PA",
+  "address": "500 Montgomery Mall",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "19454",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "70",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 60148576,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Warrington",
+  "name": "WARRINGTON",
+  "state": "PA",
+  "address": "1405 Main St",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "18976",
+  "appointments": [
+    {
+      "date": "2021-03-25"
+    },
+    {
+      "date": "2021-03-26"
+    },
+    {
+      "date": "2021-03-27"
+    },
+    {
+      "date": "2021-03-28"
+    },
+    {
+      "date": "2021-03-29"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "8",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:20.598+00:00"
+}
+{
+  "id": 54193195,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Mifflinburg",
+  "name": "Weis Markets Mifflinburg",
+  "state": "PA",
+  "address": "65 Meadow Green Drive",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17844",
+  "appointments": [
+    {
+      "date": "2021-03-23",
+      "type": "1st Dose 65+ COVID Vaccine"
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "197",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:19.051+00:00"
+}
+{
+  "id": 54193168,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Stroudsburg",
+  "name": "Weis Markets Stroudsburg",
+  "state": "PA",
+  "address": "1070 North 9th Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "18360",
+  "appointments": [
+    {
+      "date": "2021-03-24"
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "159",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:46:19.051+00:00"
+}
+{
+  "id": 7365002,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Port Allegany",
+  "city": "Berwick",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "59 North Main Street",
+  "address": "400 West Second Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16743",
+  "postal_code": "18603",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2474",
+  "provider_location_id": "11073",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:20:54.464+00:00"
+  "appointments_last_fetched": "2021-03-23T14:45:34.034+00:00"
 }
 {
   "id": 7364281,
@@ -558,23 +636,59 @@
   "provider_brand_name": "Rite Aid",
   "provider_location_id": "4616",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:20:42.002+00:00"
+  "appointments_last_fetched": "2021-03-23T14:45:18.05+00:00"
 }
 {
-  "id": 7351182,
+  "id": 7364278,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Mercer",
+  "city": "Greenville",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "100 Franklin Street",
+  "address": "335 Main Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16137",
+  "postal_code": "16125",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2769",
+  "provider_location_id": "3449",
   "appointments_available": true,
-  "appointments_last_fetched": "2021-03-23T14:20:05.564+00:00"
+  "appointments_last_fetched": "2021-03-23T14:44:07.423+00:00"
+}
+{
+  "id": 7351191,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Emporium",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "620 E Allegheny Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15834",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "7850",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:43:55.574+00:00"
+}
+{
+  "id": 7351190,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Coudersport",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "207 Route 6 West",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16915",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1976",
+  "appointments_available": true,
+  "appointments_last_fetched": "2021-03-23T14:43:47.379+00:00"
 }
