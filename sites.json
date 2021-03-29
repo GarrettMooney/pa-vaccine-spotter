@@ -1,85 +1,4 @@
 {
-  "id": 7351191,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Emporium",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "620 E Allegheny Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15834",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7850",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:24:40.282+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364264,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Farrell",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "700 Sharon New Castle Rd.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16121",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1668",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:24:38.06+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351200,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Punxsutawney",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "201 West Mahoning Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15767",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10975",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:24:24.234+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
   "id": 7351194,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
   "city": "Saint Marys",
@@ -102,7 +21,88 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:24:06.88+00:00",
+  "appointments_last_fetched": "2021-03-29T21:42:21.518+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364946,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Red Lion",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "910 West Broadway",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17356",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1640",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:42:18.568+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351175,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Everett",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "211 East Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15537",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1429",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:42:17.558+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351199,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Dubois",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "431 Commons Drive",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15801",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10976",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:42:14.754+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -129,7 +129,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:24:03.773+00:00",
+  "appointments_last_fetched": "2021-03-29T21:42:08.225+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -156,7 +156,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:24:03.773+00:00",
+  "appointments_last_fetched": "2021-03-29T21:42:08.225+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -183,7 +183,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:24:03.773+00:00",
+  "appointments_last_fetched": "2021-03-29T21:42:08.225+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -210,7 +210,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:24:03.773+00:00",
+  "appointments_last_fetched": "2021-03-29T21:42:08.225+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -237,1602 +237,184 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:24:03.773+00:00",
+  "appointments_last_fetched": "2021-03-29T21:42:08.225+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 2714379,
+  "id": 7364240,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Indiana",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "375 Philadelphia Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15701",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "264",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:42:05.754+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351195,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Ridgway",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "101 Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15853",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2476",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:53.07+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364242,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Bethlehem",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "610 Broad Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16242",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1548",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:50.125+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364959,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Minersville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "44 Kings Village",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17954",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2693",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:43.339+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364961,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Ashland",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "129 East Centre Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17921",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2478",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:34.759+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364985,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Honesdale",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1184 Texas Palmyra Highway",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18431",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "229",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:27.317+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 2714419,
   "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
-  "city": "ERIE",
+  "city": "GREENSBURG",
   "name": "Walgreen Drug Store",
   "state": "PA",
-  "address": "3727 PEACH ST",
+  "address": "1000 LINCOLN PL",
   "provider": "walgreens",
   "time_zone": "America/New_York",
-  "postal_code": "16508",
+  "postal_code": "15601",
   "appointments": [
     {
-      "time": "2021-03-30T10:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T10:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T10:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T10:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T11:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T09:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T10:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T11:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T13:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T13:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T09:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T10:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T11:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T13:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T13:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T15:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T15:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T09:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-04-02T11:15:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -1953,26 +535,6 @@
       ]
     },
     {
-      "time": "2021-04-02T12:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-04-02T12:35:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -1993,6 +555,26 @@
       ]
     },
     {
+      "time": "2021-04-02T12:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
       "time": "2021-04-02T12:55:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -2004,226 +586,6 @@
     },
     {
       "time": "2021-04-02T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T13:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T13:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T15:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T15:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:05:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -2273,66 +635,6 @@
       ]
     },
     {
-      "time": "2021-04-03T10:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-04-03T11:05:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -2344,26 +646,6 @@
     },
     {
       "time": "2021-04-03T11:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:15:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -2473,26 +755,6 @@
       ]
     },
     {
-      "time": "2021-04-03T12:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-04-03T12:25:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -2584,126 +846,6 @@
     },
     {
       "time": "2021-04-03T13:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T15:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T15:05:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -2721,14 +863,869 @@
   },
   "provider_brand_id": 47,
   "provider_brand_name": "Walgreens",
-  "provider_location_id": "10520",
+  "provider_location_id": "10095",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-29T21:23:53.533+00:00",
+  "appointments_last_fetched": "2021-03-29T21:41:23.954+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": true
+}
+{
+  "id": 54170704,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Altoona",
+  "name": "Weis Markets Altoona",
+  "state": "PA",
+  "address": "601 Pleasant Valley Blvd",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "16602",
+  "appointments": [
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "64",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193192,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Bloomsburg",
+  "name": "Weis Markets Bloomsburg",
+  "state": "PA",
+  "address": "725 Columbia Boulevard",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17815",
+  "appointments": [
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "192",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170684,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Burnham",
+  "name": "Weis Markets Burnham",
+  "state": "PA",
+  "address": "224 North Logan Boulevard",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17009",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "35",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170699,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Chambersburg",
+  "name": "Weis Markets Chambersburg",
+  "state": "PA",
+  "address": "1056 Wayne Avenue",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17201",
+  "appointments": [
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "56",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170674,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Danville",
+  "name": "Weis Markets Danville",
+  "state": "PA",
+  "address": "140 Continental Boulevard",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17821",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "10",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193174,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Honesdale",
+  "name": "Weis Markets Honesdale",
+  "state": "PA",
+  "address": "1199 Texas Palmyra Highway Suite N",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "18431",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "170",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170682,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Huntingdon",
+  "name": "Weis Markets Huntingdon",
+  "state": "PA",
+  "address": "611 Fifteenth Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "16652",
+  "appointments": [
+    {
+      "date": "2021-03-29",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "30",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170675,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Jersey Shore",
+  "name": "Weis Markets Jersey Shore",
+  "state": "PA",
+  "address": "1440 Allegheny Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17740",
+  "appointments": [
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "14",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170680,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Lock Haven",
+  "name": "Weis Markets Lock Haven",
+  "state": "PA",
+  "address": "313-327 West Bald Eagle Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17745",
+  "appointments": [
+    {
+      "date": "2021-03-30",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "22",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170745,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Macungie",
+  "name": "Weis Markets Macungie",
+  "state": "PA",
+  "address": "3369 Route 100",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "18062",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "132",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193178,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Mifflintown",
+  "name": "Weis Markets Mifflintown",
+  "state": "PA",
+  "address": "4521 William Penn Highway",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17059",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "176",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193199,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Mill Hall",
+  "name": "Weis Markets Mill Hall",
+  "state": "PA",
+  "address": "6 Millbrook Plaza",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17751",
+  "appointments": [
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "203",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170671,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Milton",
+  "name": "Weis Markets Milton",
+  "state": "PA",
+  "address": "555 Mahoning Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17847",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "7",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170686,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Montoursville",
+  "name": "Weis Markets Montoursville",
+  "state": "PA",
+  "address": "801 Loyalsock Avenue",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17754",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "37",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193165,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Mount Pocono",
+  "name": "Weis Markets Mount Pocono",
+  "state": "PA",
+  "address": "3236 Route 940 Suite 116",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "18344",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "155",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193179,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Muncy",
+  "name": "Weis Markets Muncy",
+  "state": "PA",
+  "address": "1272 East Penn Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17756",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "177",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170735,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Philipsburg",
+  "name": "Weis Markets Philipsburg",
+  "state": "PA",
+  "address": "501 North Centre Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "16866",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "118",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170687,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Shippensburg",
+  "name": "Weis Markets Shippensburg",
+  "state": "PA",
+  "address": "1075 West King Street",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17257",
+  "appointments": [
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "38",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54193196,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Wellsboro",
+  "name": "Weis Markets Wellsboro",
+  "state": "PA",
+  "address": "11798 Route 6",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "16901",
+  "appointments": [
+    {
+      "date": "2021-03-30",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-03-31",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "198",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 54170673,
+  "url": "https://www.weismarkets.com/pharmacy-services",
+  "city": "Williamsport",
+  "name": "Weis Markets Williamsport",
+  "state": "PA",
+  "address": "305 River Avenue",
+  "provider": "weis",
+  "time_zone": "America/New_York",
+  "postal_code": "17701",
+  "appointments": [
+    {
+      "date": "2021-04-01",
+      "type": "1st Dose 65+ COVID Vaccine",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "weis",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1377,
+  "provider_brand_name": "Weis",
+  "provider_location_id": "9",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:20.131+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 60148580,
+  "url": "https://www.wegmans.com/covid-vaccine-registration/",
+  "city": "Wilkes-Barre",
+  "name": "WILKES-BARRE",
+  "state": "PA",
+  "address": "220 Highland Park Blvd",
+  "provider": "wegmans",
+  "time_zone": "America/New_York",
+  "postal_code": "18702",
+  "appointments": [
+    {
+      "date": "2021-03-30"
+    }
+  ],
+  "provider_brand": "wegmans",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 1391,
+  "provider_brand_name": "Wegmans",
+  "provider_location_id": "55",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:41:14.086+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7491013,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Quarryville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "315 West Fourth Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17566",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1922",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:40:43.252+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7491014,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Lancaster",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "59 North Queen Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17603",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "729",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:39:46.577+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
 }
 {
   "id": 2714380,
@@ -5735,150 +4732,2631 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-29T21:23:53.533+00:00",
+  "appointments_last_fetched": "2021-03-29T21:38:39.743+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": true
 }
 {
-  "id": 7351195,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Ridgway",
-  "name": "Rite Aid",
+  "id": 2714379,
+  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
+  "city": "ERIE",
+  "name": "Walgreen Drug Store",
   "state": "PA",
-  "address": "101 Main Street",
-  "provider": "rite_aid",
+  "address": "3727 PEACH ST",
+  "provider": "walgreens",
   "time_zone": "America/New_York",
-  "postal_code": "15853",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2476",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:23:37.822+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364242,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "New Bethlehem",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "610 Broad Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16242",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1548",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:23:35.331+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364959,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Minersville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "44 Kings Village",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17954",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2693",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:23:29.581+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 60148505,
-  "url": "https://www.wegmans.com/covid-vaccine-registration/",
-  "city": "Downingtown",
-  "name": "DOWNINGTOWN",
-  "state": "PA",
-  "address": "1056 East Lancaster Avenue",
-  "provider": "wegmans",
-  "time_zone": "America/New_York",
-  "postal_code": "19335",
+  "postal_code": "16508",
   "appointments": [
     {
-      "date": "2021-03-30"
+      "time": "2021-03-30T10:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T10:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T10:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T10:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T11:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T12:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T12:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T12:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T12:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-30T12:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-30T12:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T09:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T10:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T11:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T12:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T13:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T13:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-03-31T14:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T09:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T10:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T11:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T13:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T13:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T14:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-01T15:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T15:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T09:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T10:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T11:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T12:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T13:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T13:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T14:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-02T15:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-02T15:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T09:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T09:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T09:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T09:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T09:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T09:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T10:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T11:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T12:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T13:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T13:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:15:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:15:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:25:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:25:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:35:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:35:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:45:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:45:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:55:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T14:55:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
+      "time": "2021-04-03T15:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-03T15:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
     }
   ],
-  "provider_brand": "wegmans",
+  "provider_brand": "walgreens",
   "carries_vaccine": null,
+  "appointment_types": {
+    "all_doses": true,
+    "2nd_dose_only": true
+  },
+  "provider_brand_id": 47,
+  "provider_brand_name": "Walgreens",
+  "provider_location_id": "10520",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:38:39.143+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": true
+}
+{
+  "id": 7364929,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Columbia",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1786-I Columbia Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "17512",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
   "appointment_types": {
     "unknown": true
   },
-  "provider_brand_id": 1391,
-  "provider_brand_name": "Wegmans",
-  "provider_location_id": "41",
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3610",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:23:07.231+00:00",
+  "appointments_last_fetched": "2021-03-29T21:38:36.318+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 60148580,
-  "url": "https://www.wegmans.com/covid-vaccine-registration/",
-  "city": "Wilkes-Barre",
-  "name": "WILKES-BARRE",
+  "id": 7364278,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Greenville",
+  "name": "Rite Aid",
   "state": "PA",
-  "address": "220 Highland Park Blvd",
-  "provider": "wegmans",
+  "address": "335 Main Street",
+  "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "18702",
-  "appointments": [
-    {
-      "date": "2021-03-30"
-    }
-  ],
-  "provider_brand": "wegmans",
-  "carries_vaccine": null,
+  "postal_code": "16125",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
   "appointment_types": {
     "unknown": true
   },
-  "provider_brand_id": 1391,
-  "provider_brand_name": "Wegmans",
-  "provider_location_id": "55",
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3449",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-29T21:23:07.231+00:00",
+  "appointments_last_fetched": "2021-03-29T21:38:23.08+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351191,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Emporium",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "620 E Allegheny Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15834",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "7850",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:38:21.673+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364227,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "California",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "404 Third Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15419",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1514",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:38:19.402+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364264,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Farrell",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "700 Sharon New Castle Rd.",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16121",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1668",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-03-29T21:38:18.616+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -6014,26 +7492,6 @@
       ]
     },
     {
-      "time": "2021-03-30T12:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-30T12:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-03-30T12:55:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -7754,26 +9212,6 @@
       ]
     },
     {
-      "time": "2021-04-03T09:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-04-03T09:25:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -8125,1567 +9563,6 @@
     },
     {
       "time": "2021-04-03T12:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T13:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T13:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T14:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    }
-  ],
-  "provider_brand": "walgreens",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "all_doses": true,
-    "2nd_dose_only": true
-  },
-  "provider_brand_id": 47,
-  "provider_brand_name": "Walgreens",
-  "provider_location_id": "10386",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:55.183+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": true
-}
-{
-  "id": 54170704,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Altoona",
-  "name": "Weis Markets Altoona",
-  "state": "PA",
-  "address": "601 Pleasant Valley Blvd",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16602",
-  "appointments": [
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "64",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193192,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Bloomsburg",
-  "name": "Weis Markets Bloomsburg",
-  "state": "PA",
-  "address": "725 Columbia Boulevard",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17815",
-  "appointments": [
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "192",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170684,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Burnham",
-  "name": "Weis Markets Burnham",
-  "state": "PA",
-  "address": "224 North Logan Boulevard",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17009",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "35",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170699,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Chambersburg",
-  "name": "Weis Markets Chambersburg",
-  "state": "PA",
-  "address": "1056 Wayne Avenue",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17201",
-  "appointments": [
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "56",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170674,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Danville",
-  "name": "Weis Markets Danville",
-  "state": "PA",
-  "address": "140 Continental Boulevard",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17821",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "10",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193218,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Hanover",
-  "name": "Weis Markets Hanover",
-  "state": "PA",
-  "address": "1424 Baltimore Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17331",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "240",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170676,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Hanover",
-  "name": "Weis Markets Hanover",
-  "state": "PA",
-  "address": "860 Carlisle Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17331",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "16",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193174,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Honesdale",
-  "name": "Weis Markets Honesdale",
-  "state": "PA",
-  "address": "1199 Texas Palmyra Highway Suite N",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "18431",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "170",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170682,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Huntingdon",
-  "name": "Weis Markets Huntingdon",
-  "state": "PA",
-  "address": "611 Fifteenth Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16652",
-  "appointments": [
-    {
-      "date": "2021-03-29",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "30",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170675,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Jersey Shore",
-  "name": "Weis Markets Jersey Shore",
-  "state": "PA",
-  "address": "1440 Allegheny Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17740",
-  "appointments": [
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "14",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170680,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Lock Haven",
-  "name": "Weis Markets Lock Haven",
-  "state": "PA",
-  "address": "313-327 West Bald Eagle Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17745",
-  "appointments": [
-    {
-      "date": "2021-03-30",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "22",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170745,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Macungie",
-  "name": "Weis Markets Macungie",
-  "state": "PA",
-  "address": "3369 Route 100",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "18062",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "132",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193178,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Mifflintown",
-  "name": "Weis Markets Mifflintown",
-  "state": "PA",
-  "address": "4521 William Penn Highway",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17059",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "176",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193199,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Mill Hall",
-  "name": "Weis Markets Mill Hall",
-  "state": "PA",
-  "address": "6 Millbrook Plaza",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17751",
-  "appointments": [
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "203",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170671,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Milton",
-  "name": "Weis Markets Milton",
-  "state": "PA",
-  "address": "555 Mahoning Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17847",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "7",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170686,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Montoursville",
-  "name": "Weis Markets Montoursville",
-  "state": "PA",
-  "address": "801 Loyalsock Avenue",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17754",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "37",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193179,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Muncy",
-  "name": "Weis Markets Muncy",
-  "state": "PA",
-  "address": "1272 East Penn Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17756",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "177",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170735,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Philipsburg",
-  "name": "Weis Markets Philipsburg",
-  "state": "PA",
-  "address": "501 North Centre Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16866",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "118",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193176,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Red Lion",
-  "name": "Weis Markets Red Lion",
-  "state": "PA",
-  "address": "693 Lombard Road",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17356",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "173",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170687,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Shippensburg",
-  "name": "Weis Markets Shippensburg",
-  "state": "PA",
-  "address": "1075 West King Street",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17257",
-  "appointments": [
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "38",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54193196,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Wellsboro",
-  "name": "Weis Markets Wellsboro",
-  "state": "PA",
-  "address": "11798 Route 6",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "16901",
-  "appointments": [
-    {
-      "date": "2021-03-30",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-03-31",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "198",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170673,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "Williamsport",
-  "name": "Weis Markets Williamsport",
-  "state": "PA",
-  "address": "305 River Avenue",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17701",
-  "appointments": [
-    {
-      "date": "2021-04-01",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "9",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 54170728,
-  "url": "https://www.weismarkets.com/pharmacy-services",
-  "city": "York",
-  "name": "Weis Markets York",
-  "state": "PA",
-  "address": "2065 Springwood Road",
-  "provider": "weis",
-  "time_zone": "America/New_York",
-  "postal_code": "17403",
-  "appointments": [
-    {
-      "date": "2021-03-30",
-      "type": "1st Dose 65+ COVID Vaccine",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "weis",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 1377,
-  "provider_brand_name": "Weis",
-  "provider_location_id": "104",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:22:41.404+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 2714419,
-  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
-  "city": "GREENSBURG",
-  "name": "Walgreen Drug Store",
-  "state": "PA",
-  "address": "1000 LINCOLN PL",
-  "provider": "walgreens",
-  "time_zone": "America/New_York",
-  "postal_code": "15601",
-  "appointments": [
-    {
-      "time": "2021-04-02T10:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T10:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T11:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T13:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T13:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T10:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:05:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:25:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:45:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T11:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T12:05:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -9863,122 +9740,14 @@
   },
   "provider_brand_id": 47,
   "provider_brand_name": "Walgreens",
-  "provider_location_id": "10095",
+  "provider_location_id": "10386",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-29T21:22:31.453+00:00",
+  "appointments_last_fetched": "2021-03-29T21:37:45.962+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": true
-}
-{
-  "id": 7364281,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Titusville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "208 East Central Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16354",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "4616",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:21:31.553+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351250,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Hamburg",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "807 South 4th Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "19526",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3425",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:21:19.367+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351182,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Mercer",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "100 Franklin Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16137",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2769",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:20:44.797+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364267,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Kittanning",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "165 Butler Road",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16201",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10998",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-03-29T21:20:21.214+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
 }
 {
   "id": 773559,
@@ -10001,14 +9770,6 @@
     },
     {
       "time": "2021-03-30T06:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-03-30T07:20:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
         "pfizer"
@@ -10284,7 +10045,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-29T21:17:13.247+00:00",
+  "appointments_last_fetched": "2021-03-29T21:36:30.109+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -10317,6 +10078,14 @@
     },
     {
       "time": "2021-03-31T12:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-03-31T12:40:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
         "pfizer"
@@ -10640,7 +10409,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-29T21:17:12.905+00:00",
+  "appointments_last_fetched": "2021-03-29T21:36:29.683+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -10655,14 +10424,6 @@
   "time_zone": "America/New_York",
   "postal_code": "16412",
   "appointments": [
-    {
-      "time": "2021-03-31T12:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
     {
       "time": "2021-03-31T12:40:00.000-04:00",
       "type": "Pfizer",
@@ -11012,7 +10773,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-29T21:17:11.815+00:00",
+  "appointments_last_fetched": "2021-03-29T21:36:29.036+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
