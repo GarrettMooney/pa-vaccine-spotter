@@ -21,7 +21,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -48,7 +48,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -75,7 +75,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -102,7 +102,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -129,7 +129,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -156,7 +156,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -183,7 +183,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -210,7 +210,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -237,7 +237,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -264,7 +264,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -291,7 +291,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -318,7 +318,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -345,7 +345,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -372,7 +372,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -399,7 +399,7 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -426,78 +426,9 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-03-31T02:54:41.635+00:00",
+  "appointments_last_fetched": "2021-03-31T03:31:47.12+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 2714398,
-  "url": "https://www.walgreens.com/findcare/vaccination/covid-19?ban=covid_vaccine_landing_schedule",
-  "city": "HOMESTEAD",
-  "name": "Walgreen Drug Store",
-  "state": "PA",
-  "address": "133 W 8TH AVE",
-  "provider": "walgreens",
-  "time_zone": "America/New_York",
-  "postal_code": "15120",
-  "appointments": [
-    {
-      "time": "2021-03-31T14:55:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T14:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-03-31T15:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-03-31T15:15:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    }
-  ],
-  "provider_brand": "walgreens",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "all_doses": true,
-    "2nd_dose_only": true
-  },
-  "provider_brand_id": 47,
-  "provider_brand_name": "Walgreens",
-  "provider_location_id": "9674",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-03-31T02:54:09.278+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": true
 }
 {
   "id": 2714379,
@@ -1671,26 +1602,6 @@
       ]
     },
     {
-      "time": "2021-04-03T09:35:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-03T09:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
       "time": "2021-04-03T10:05:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -2364,7 +2275,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:50:56.368+00:00",
+  "appointments_last_fetched": "2021-03-31T03:30:44.908+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": true
 }
@@ -4773,7 +4684,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:50:56.368+00:00",
+  "appointments_last_fetched": "2021-03-31T03:30:44.908+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": true
 }
@@ -5089,6 +5000,26 @@
       ]
     },
     {
+      "time": "2021-04-01T12:05:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "all_doses"
+      ]
+    },
+    {
+      "time": "2021-04-01T12:05:00.000-04:00",
+      "type": "Pfizer - 2nd Dose Only",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": [
+        "2nd_dose_only"
+      ]
+    },
+    {
       "time": "2021-04-01T12:25:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -5240,26 +5171,6 @@
     },
     {
       "time": "2021-04-01T14:35:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:45:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-01T14:45:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -5600,26 +5511,6 @@
     },
     {
       "time": "2021-04-02T12:55:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-02T13:05:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-02T13:05:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -6020,26 +5911,6 @@
     },
     {
       "time": "2021-04-03T14:25:00.000-04:00",
-      "type": "Pfizer - 2nd Dose Only",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "2nd_dose_only"
-      ]
-    },
-    {
-      "time": "2021-04-04T10:15:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": [
-        "all_doses"
-      ]
-    },
-    {
-      "time": "2021-04-04T10:15:00.000-04:00",
       "type": "Pfizer - 2nd Dose Only",
       "vaccine_types": [
         "pfizer"
@@ -6282,7 +6153,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:49:39.725+00:00",
+  "appointments_last_fetched": "2021-03-31T03:29:39.319+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": true
 }
@@ -6518,7 +6389,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:39:15.542+00:00",
+  "appointments_last_fetched": "2021-03-31T03:24:26.859+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -6533,6 +6404,22 @@
   "time_zone": "America/New_York",
   "postal_code": "16509",
   "appointments": [
+    {
+      "time": "2021-04-01T08:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-01T15:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
     {
       "time": "2021-04-02T08:40:00.000-04:00",
       "type": "Pfizer",
@@ -6786,7 +6673,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:39:12.707+00:00",
+  "appointments_last_fetched": "2021-03-31T03:24:24.451+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -7070,7 +6957,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:39:12.671+00:00",
+  "appointments_last_fetched": "2021-03-31T03:24:22.905+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -7386,7 +7273,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:39:09.298+00:00",
+  "appointments_last_fetched": "2021-03-31T03:24:20.159+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -7686,7 +7573,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:39:07.73+00:00",
+  "appointments_last_fetched": "2021-03-31T03:24:18.922+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -7886,14 +7773,6 @@
       "appointment_types": []
     },
     {
-      "time": "2021-04-03T16:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
       "time": "2021-04-04T08:00:00.000-04:00",
       "type": "Pfizer",
       "vaccine_types": [
@@ -8058,7 +7937,7 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-03-31T02:39:04.596+00:00",
+  "appointments_last_fetched": "2021-03-31T03:24:15.898+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
