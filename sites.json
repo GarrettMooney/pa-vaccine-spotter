@@ -1,13 +1,13 @@
 {
-  "id": 7351181,
+  "id": 7503903,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Oil City",
+  "city": "Allison Park",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "508 East Second Street",
+  "address": "4960 William Flynn Hwy Ste 10",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16301",
+  "postal_code": "15101",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
@@ -16,26 +16,26 @@
   },
   "provider_brand_id": 40,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1496",
+  "provider_location_id": "10904",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:31:14.487+00:00",
-  "appointments_last_modified": "2021-04-08T08:31:14.487+00:00",
+  "appointments_last_fetched": "2021-04-08T08:56:24.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:56:24.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 7351143,
+  "id": 7503927,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Corry",
+  "city": "Pittsburgh",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "827 N. Center Street",
+  "address": "1700 Murray Avenue",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16407",
+  "postal_code": "15217",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
@@ -44,26 +44,26 @@
   },
   "provider_brand_id": 40,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "596",
+  "provider_location_id": "274",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:31:13.683+00:00",
-  "appointments_last_modified": "2021-04-08T08:31:13.683+00:00",
+  "appointments_last_fetched": "2021-04-08T08:56:22.713+00:00",
+  "appointments_last_modified": "2021-04-08T08:56:22.713+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 7364288,
+  "id": 7505153,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Erie",
+  "city": "Sharon",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "163 West 26th Street",
+  "address": "811 East State Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "16508",
+  "postal_code": "16146",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
@@ -72,26 +72,26 @@
   },
   "provider_brand_id": 40,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2382",
+  "provider_location_id": "3972",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:31:12.712+00:00",
-  "appointments_last_modified": "2021-04-08T08:31:12.712+00:00",
+  "appointments_last_fetched": "2021-04-08T08:56:14.729+00:00",
+  "appointments_last_modified": "2021-04-08T08:56:14.729+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 7364240,
+  "id": 7351194,
   "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Indiana",
+  "city": "Saint Marys",
   "name": "Rite Aid",
   "state": "PA",
-  "address": "375 Philadelphia Street",
+  "address": "901 S Saint Marys Street",
   "provider": "rite_aid",
   "time_zone": "America/New_York",
-  "postal_code": "15701",
+  "postal_code": "15857",
   "appointments": [],
   "provider_brand": "rite_aid",
   "carries_vaccine": true,
@@ -100,13 +100,181 @@
   },
   "provider_brand_id": 40,
   "provider_brand_name": "Rite Aid",
-  "provider_location_id": "264",
+  "provider_location_id": "7853",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:39.158+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:39.158+00:00",
+  "appointments_last_fetched": "2021-04-08T08:56:02.401+00:00",
+  "appointments_last_modified": "2021-04-08T08:56:02.401+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351212,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Towanda",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "148 Ennis Lane",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18848",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11084",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:58.927+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:58.927+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364278,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Greenville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "335 Main Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16125",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3449",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:57.528+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:57.528+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351200,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Punxsutawney",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "201 West Mahoning Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15767",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10975",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:55.251+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:55.251+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364242,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "New Bethlehem",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "610 Broad Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16242",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1548",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:53.817+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:53.817+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364233,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Uniontown",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "262 Connellsville Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15401",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1963",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:52.515+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:52.515+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351148,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Union City",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1 East High Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16438",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1398",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:51.366+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:51.366+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -152,8 +320,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:37.71+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:37.71+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:49.996+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:49.996+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -193,36 +361,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:37.71+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:37.71+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364276,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Meadville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "975 Market Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16335",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "2380",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:30:35.795+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:35.795+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:49.996+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:49.996+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -249,8 +389,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -277,8 +417,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -305,8 +445,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -333,8 +473,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -361,8 +501,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -389,8 +529,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -417,8 +557,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -445,8 +585,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -473,8 +613,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -501,8 +641,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -529,8 +669,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -557,8 +697,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -585,8 +725,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -613,8 +753,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -641,8 +781,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -669,8 +809,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -697,8 +837,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -725,8 +865,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -753,8 +893,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -781,8 +921,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -809,8 +949,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -837,1114 +977,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:30:33.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:33.779+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351235,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Scranton",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1080 S Washington Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "18505",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "726",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:30:27.445+00:00",
-  "appointments_last_modified": "2021-04-08T08:30:27.445+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774000,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "West Mifflin",
-  "name": "West Mifflin Supercenter",
-  "state": "PA",
-  "address": "2351 Century Dr",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15122",
-  "appointments": [
-    {
-      "time": "2021-04-14T09:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T12:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T12:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T12:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T14:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T16:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "2281",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:51.173+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:51.173+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774022,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Beaver Falls",
-  "name": "Beaver Falls Supercenter",
-  "state": "PA",
-  "address": "100 Chippewa Town Centre",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15010",
-  "appointments": [
-    {
-      "time": "2021-04-14T10:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T10:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T10:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T14:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T16:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "3223",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:48.009+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:48.009+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774018,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Moon Township",
-  "name": "Moon Township Supercenter",
-  "state": "PA",
-  "address": "7500 University Boulevard",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15108",
-  "appointments": [
-    {
-      "time": "2021-04-14T08:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T09:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T14:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "4644",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:41.323+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:41.323+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774006,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Carnegie",
-  "name": "Carnegie Store",
-  "state": "PA",
-  "address": "2200 Washington Pike",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15106",
-  "appointments": [
-    {
-      "time": "2021-04-14T10:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T16:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T16:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T17:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T17:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "5040",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:41.131+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:41.131+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774016,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Pittsburgh",
-  "name": "Pittsburgh Supercenter",
-  "state": "PA",
-  "address": "250 Summit Park Dr",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15275",
-  "appointments": [
-    {
-      "time": "2021-04-14T07:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T08:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T09:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T10:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T10:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "2300",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:39.877+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:39.877+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774021,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Monaca",
-  "name": "Monaca Supercenter",
-  "state": "PA",
-  "address": "3942 Brodhead Rd",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "15061",
-  "appointments": [
-    {
-      "time": "2021-04-14T09:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T10:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T10:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T11:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T12:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T12:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T12:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T14:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T14:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:20:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T15:40:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-14T16:00:00.000-04:00",
-      "type": "Pfizer",
-      "vaccine_types": [
-        "pfizer"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "1883",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "pfizer": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:38.779+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:38.779+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364965,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Mahanoy City",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "15 West Centre Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "17948",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "696",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:29:14.813+00:00",
-  "appointments_last_modified": "2021-04-08T08:29:14.813+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351174,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Portage",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "630 Main St.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15946",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1549",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:43.969+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:43.969+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351176,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Derry",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "222 Y Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15627",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1628",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:42.416+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:42.416+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364243,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Nanty Glo",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1303 Shoemaker Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15943",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3364",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:41.273+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:41.273+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351146,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Erie",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "4145 Buffalo Road",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16510",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11010",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:39.787+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:39.787+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364285,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Erie",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1338 East Grandview Blvd.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16504",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11007",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:35.245+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:35.245+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364267,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Kittanning",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "165 Butler Road",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16201",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10998",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:26.449+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:26.449+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7553595,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Glenshaw",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1710 Mount Royal Blvd.",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15116",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10909",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:26.068+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:26.068+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7503903,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Allison Park",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "4960 William Flynn Hwy Ste 10",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15101",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10904",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:22.91+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:22.91+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7503927,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Pittsburgh",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1700 Murray Avenue",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15217",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "274",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:19.337+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:19.337+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7505153,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Sharon",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "811 East State Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16146",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3972",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:13.159+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:13.159+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351194,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Saint Marys",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "901 S Saint Marys Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15857",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "7853",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:28:00.373+00:00",
-  "appointments_last_modified": "2021-04-08T08:28:00.373+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351212,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Towanda",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "148 Ennis Lane",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "18848",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11084",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:27:56.29+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:56.29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364278,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Greenville",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "335 Main Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16125",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "3449",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:27:54.662+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:54.662+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351200,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Punxsutawney",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "201 West Mahoning Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15767",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "10975",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:27:52.072+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:52.072+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364242,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "New Bethlehem",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "610 Broad Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16242",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1548",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:27:51.414+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:51.414+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7364233,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Uniontown",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "262 Connellsville Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "15401",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1963",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:27:49.579+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:49.579+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351148,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Union City",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1 East High Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16438",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "1398",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:27:49.121+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:49.121+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:48.599+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:48.599+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -1971,8 +1005,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:27:42.466+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:42.466+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:45.074+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:45.074+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -1999,8 +1033,36 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:27:21.079+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:21.079+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:24.159+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:24.159+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364980,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Brodheadsville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "504 Marion Lane",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18322",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1355",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:55:21.206+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:21.206+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2027,8 +1089,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:27:15.982+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:15.982+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:18.803+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:18.803+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2055,8 +1117,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:27:13.788+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:13.788+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:16.68+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:16.68+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2083,8 +1145,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:27:08.256+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:08.256+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:11.456+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:11.456+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2111,8 +1173,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:27:03.991+00:00",
-  "appointments_last_modified": "2021-04-08T08:27:03.991+00:00",
+  "appointments_last_fetched": "2021-04-08T08:55:06.622+00:00",
+  "appointments_last_modified": "2021-04-08T08:55:06.622+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2139,8 +1201,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:26:53.679+00:00",
-  "appointments_last_modified": "2021-04-08T08:26:53.679+00:00",
+  "appointments_last_fetched": "2021-04-08T08:54:55.802+00:00",
+  "appointments_last_modified": "2021-04-08T08:54:55.802+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2167,8 +1229,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:26:52.281+00:00",
-  "appointments_last_modified": "2021-04-08T08:26:52.281+00:00",
+  "appointments_last_fetched": "2021-04-08T08:54:54.422+00:00",
+  "appointments_last_modified": "2021-04-08T08:54:54.422+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2195,8 +1257,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:26:38.449+00:00",
-  "appointments_last_modified": "2021-04-08T08:26:38.449+00:00",
+  "appointments_last_fetched": "2021-04-08T08:54:40.418+00:00",
+  "appointments_last_modified": "2021-04-08T08:54:40.418+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2223,8 +1285,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:26:36.227+00:00",
-  "appointments_last_modified": "2021-04-08T08:26:36.227+00:00",
+  "appointments_last_fetched": "2021-04-08T08:54:38.091+00:00",
+  "appointments_last_modified": "2021-04-08T08:54:38.091+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2251,8 +1313,36 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:26:11.175+00:00",
-  "appointments_last_modified": "2021-04-08T08:26:11.175+00:00",
+  "appointments_last_fetched": "2021-04-08T08:54:12.503+00:00",
+  "appointments_last_modified": "2021-04-08T08:54:12.503+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7503937,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Carnegie",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "2100 Washington Pike",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15106",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10907",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:53:58.747+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:58.747+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2279,8 +1369,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:25:28.232+00:00",
-  "appointments_last_modified": "2021-04-08T08:25:28.232+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:37.214+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:37.214+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2307,36 +1397,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:25:03.669+00:00",
-  "appointments_last_modified": "2021-04-08T08:25:03.669+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 7351179,
-  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
-  "city": "Franklin",
-  "name": "Rite Aid",
-  "state": "PA",
-  "address": "1020 Liberty Street",
-  "provider": "rite_aid",
-  "time_zone": "America/New_York",
-  "postal_code": "16323",
-  "appointments": [],
-  "provider_brand": "rite_aid",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 40,
-  "provider_brand_name": "Rite Aid",
-  "provider_location_id": "11002",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-08T08:25:01.31+00:00",
-  "appointments_last_modified": "2021-04-08T08:25:01.31+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:11.737+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:11.737+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2363,8 +1425,36 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:25:00.863+00:00",
-  "appointments_last_modified": "2021-04-08T08:25:00.863+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:09.37+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:09.37+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351179,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Franklin",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1020 Liberty Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16323",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11002",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:53:08.75+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:08.75+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2391,8 +1481,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:25:00.121+00:00",
-  "appointments_last_modified": "2021-04-08T08:25:00.121+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:07.405+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:07.405+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2419,8 +1509,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:59.217+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:59.217+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:07.357+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:07.357+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2447,8 +1537,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:56.554+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:56.554+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:04.046+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:04.046+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2475,8 +1565,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:55.553+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:55.553+00:00",
+  "appointments_last_fetched": "2021-04-08T08:53:02.571+00:00",
+  "appointments_last_modified": "2021-04-08T08:53:02.571+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2503,8 +1593,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:51.717+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:51.717+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:59.53+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:59.53+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2531,8 +1621,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:46.191+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:46.191+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:54.848+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:54.848+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2559,8 +1649,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:36.832+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:36.832+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:45.382+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:45.382+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2587,8 +1677,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:21.852+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:21.852+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:30.592+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:30.592+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2615,8 +1705,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:20.799+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:20.799+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:30.006+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:30.006+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2643,8 +1733,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:19.159+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:19.159+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:28.671+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:28.671+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2671,8 +1761,176 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-08T08:24:17.537+00:00",
-  "appointments_last_modified": "2021-04-08T08:24:17.537+00:00",
+  "appointments_last_fetched": "2021-04-08T08:52:26.751+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:26.751+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351181,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Oil City",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "508 East Second Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16301",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1496",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:52:17.23+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:17.23+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351143,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Corry",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "827 N. Center Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16407",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "596",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:52:16.572+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:16.572+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364288,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Erie",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "163 West 26th Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16508",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2382",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:52:14.45+00:00",
+  "appointments_last_modified": "2021-04-08T08:52:14.45+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364240,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Indiana",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "375 Philadelphia Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15701",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "264",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:51:48.439+00:00",
+  "appointments_last_modified": "2021-04-08T08:51:48.439+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364276,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Meadville",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "975 Market Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16335",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "2380",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:51:44.686+00:00",
+  "appointments_last_modified": "2021-04-08T08:51:44.686+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351235,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Scranton",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1080 S Washington Avenue",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "18505",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "726",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:51:36.945+00:00",
+  "appointments_last_modified": "2021-04-08T08:51:36.945+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2788,8 +2046,738 @@
   "appointment_vaccine_types": {
     "pfizer": true
   },
-  "appointments_last_fetched": "2021-04-08T08:22:42.414+00:00",
-  "appointments_last_modified": "2021-04-08T08:22:42.414+00:00",
+  "appointments_last_fetched": "2021-04-08T08:51:13.639+00:00",
+  "appointments_last_modified": "2021-04-08T08:51:13.639+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351174,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Portage",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "630 Main St.",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15946",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1549",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:45.911+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:45.911+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351176,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Derry",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "222 Y Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15627",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "1628",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:44.492+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:44.492+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364243,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Nanty Glo",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1303 Shoemaker Street",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15943",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "3364",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:42.967+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:42.967+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7351146,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Erie",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "4145 Buffalo Road",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16510",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11010",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:41.231+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:41.231+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364285,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Erie",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1338 East Grandview Blvd.",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16504",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "11007",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:37.092+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:37.092+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7364267,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Kittanning",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "165 Butler Road",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "16201",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10998",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:28.05+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:28.05+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 7553595,
+  "url": "https://www.riteaid.com/pharmacy/covid-qualifier",
+  "city": "Glenshaw",
+  "name": "Rite Aid",
+  "state": "PA",
+  "address": "1710 Mount Royal Blvd.",
+  "provider": "rite_aid",
+  "time_zone": "America/New_York",
+  "postal_code": "15116",
+  "appointments": [],
+  "provider_brand": "rite_aid",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 40,
+  "provider_brand_name": "Rite Aid",
+  "provider_location_id": "10909",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:49:26.286+00:00",
+  "appointments_last_modified": "2021-04-08T08:49:26.286+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 774000,
+  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+  "city": "West Mifflin",
+  "name": "West Mifflin Supercenter",
+  "state": "PA",
+  "address": "2351 Century Dr",
+  "provider": "walmart",
+  "time_zone": "America/New_York",
+  "postal_code": "15122",
+  "appointments": [
+    {
+      "time": "2021-04-14T09:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T11:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T11:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T12:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T12:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T12:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T14:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T16:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "walmart",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 70,
+  "provider_brand_name": "Walmart",
+  "provider_location_id": "2281",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:42:36.293+00:00",
+  "appointments_last_modified": "2021-04-08T08:42:36.293+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 774022,
+  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+  "city": "Beaver Falls",
+  "name": "Beaver Falls Supercenter",
+  "state": "PA",
+  "address": "100 Chippewa Town Centre",
+  "provider": "walmart",
+  "time_zone": "America/New_York",
+  "postal_code": "15010",
+  "appointments": [
+    {
+      "time": "2021-04-14T10:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T10:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T10:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T11:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T11:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T14:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "walmart",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 70,
+  "provider_brand_name": "Walmart",
+  "provider_location_id": "3223",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:42:33.362+00:00",
+  "appointments_last_modified": "2021-04-08T08:42:33.362+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 774018,
+  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+  "city": "Moon Township",
+  "name": "Moon Township Supercenter",
+  "state": "PA",
+  "address": "7500 University Boulevard",
+  "provider": "walmart",
+  "time_zone": "America/New_York",
+  "postal_code": "15108",
+  "appointments": [
+    {
+      "time": "2021-04-14T08:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T09:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T14:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "walmart",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 70,
+  "provider_brand_name": "Walmart",
+  "provider_location_id": "4644",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:42:26.63+00:00",
+  "appointments_last_modified": "2021-04-08T08:42:26.63+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 774006,
+  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+  "city": "Carnegie",
+  "name": "Carnegie Store",
+  "state": "PA",
+  "address": "2200 Washington Pike",
+  "provider": "walmart",
+  "time_zone": "America/New_York",
+  "postal_code": "15106",
+  "appointments": [
+    {
+      "time": "2021-04-14T11:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T16:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T16:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T17:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T17:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "walmart",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 70,
+  "provider_brand_name": "Walmart",
+  "provider_location_id": "5040",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:42:26.445+00:00",
+  "appointments_last_modified": "2021-04-08T08:42:26.445+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 774016,
+  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+  "city": "Pittsburgh",
+  "name": "Pittsburgh Supercenter",
+  "state": "PA",
+  "address": "250 Summit Park Dr",
+  "provider": "walmart",
+  "time_zone": "America/New_York",
+  "postal_code": "15275",
+  "appointments": [
+    {
+      "time": "2021-04-14T07:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T08:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T09:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T10:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T10:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "walmart",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 70,
+  "provider_brand_name": "Walmart",
+  "provider_location_id": "2300",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:42:26.416+00:00",
+  "appointments_last_modified": "2021-04-08T08:42:26.416+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 774021,
+  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
+  "city": "Monaca",
+  "name": "Monaca Supercenter",
+  "state": "PA",
+  "address": "3942 Brodhead Rd",
+  "provider": "walmart",
+  "time_zone": "America/New_York",
+  "postal_code": "15061",
+  "appointments": [
+    {
+      "time": "2021-04-14T09:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T10:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T11:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T11:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T12:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T12:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T12:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T14:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T14:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:20:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T15:40:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-14T16:00:00.000-04:00",
+      "type": "Pfizer",
+      "vaccine_types": [
+        "pfizer"
+      ],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "walmart",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 70,
+  "provider_brand_name": "Walmart",
+  "provider_location_id": "1883",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "pfizer": true
+  },
+  "appointments_last_fetched": "2021-04-08T08:42:25.123+00:00",
+  "appointments_last_modified": "2021-04-08T08:42:25.123+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
