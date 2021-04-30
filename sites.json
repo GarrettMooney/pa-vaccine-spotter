@@ -1,1388 +1,4 @@
 {
-  "id": 170686858,
-  "url": "https://www.costco.com/covid-vaccine.html",
-  "city": "GLEN MILLS",
-  "name": "Concordville",
-  "state": "PA",
-  "address": "700 EVERGREEN DR",
-  "provider": "costco",
-  "time_zone": "America/New_York",
-  "postal_code": "19342",
-  "appointments": [
-    {
-      "time": "2021-04-30T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T13:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T13:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T13:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "costco",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 139709,
-  "provider_brand_name": "Costco",
-  "provider_location_id": "1114",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:54.333+00:00",
-  "appointments_last_modified": "2021-04-30T05:50:54.333+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 143472155,
-  "url": "https://www.pricechopper.com/covidvaccine/",
-  "city": "Matamoras",
-  "name": "Price Chopper",
-  "state": "PA",
-  "address": "1025 Pennsylvania Ave.",
-  "provider": "price_chopper",
-  "time_zone": "America/New_York",
-  "postal_code": "18336",
-  "appointments": [
-    {
-      "time": "2021-05-02T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T12:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:30:00.000-04:00"
-    }
-  ],
-  "provider_brand": "price_chopper",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 99377,
-  "provider_brand_name": "Price Chopper",
-  "provider_location_id": "202",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:44.845+00:00",
-  "appointments_last_modified": "2021-04-30T05:50:44.845+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 143472158,
-  "url": "https://www.pricechopper.com/covidvaccine/",
-  "city": "Wyoming",
-  "name": "Price Chopper",
-  "state": "PA",
-  "address": "Midway Shop Ctr,  1026 Wyoming Ave",
-  "provider": "price_chopper",
-  "time_zone": "America/New_York",
-  "postal_code": "18644",
-  "appointments": [
-    {
-      "time": "2021-05-01T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T10:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:30:00.000-04:00"
-    }
-  ],
-  "provider_brand": "price_chopper",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 99377,
-  "provider_brand_name": "Price Chopper",
-  "provider_location_id": "173",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:44.845+00:00",
-  "appointments_last_modified": "2021-04-30T05:50:44.845+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 170704130,
-  "url": "https://www.costco.com/covid-vaccine.html",
-  "city": "HOMESTEAD",
-  "name": "Homestead",
-  "state": "PA",
-  "address": "501 WATERFRONT DR W",
-  "provider": "costco",
-  "time_zone": "America/New_York",
-  "postal_code": "15120",
-  "appointments": [
-    {
-      "time": "2021-04-30T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "costco",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 139709,
-  "provider_brand_name": "Costco",
-  "provider_location_id": "649",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:40.211+00:00",
-  "appointments_last_modified": "2021-04-30T05:50:40.211+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 170703749,
-  "url": "https://www.costco.com/covid-vaccine.html",
-  "city": "HARRISBURG",
-  "name": "Harrisburg",
-  "state": "PA",
-  "address": "5125 JONESTOWN RD STE 221",
-  "provider": "costco",
-  "time_zone": "America/New_York",
-  "postal_code": "17112",
-  "appointments": [
-    {
-      "time": "2021-05-04T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "costco",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 139709,
-  "provider_brand_name": "Costco",
-  "provider_location_id": "327",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:38.571+00:00",
-  "appointments_last_modified": "2021-04-30T05:50:38.571+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 170686856,
-  "url": "https://www.costco.com/covid-vaccine.html",
-  "city": "NORTH WALES",
-  "name": "Montgomeryville",
-  "state": "PA",
-  "address": "740 UPPER STATE RD",
-  "provider": "costco",
-  "time_zone": "America/New_York",
-  "postal_code": "19454",
-  "appointments": [
-    {
-      "time": "2021-04-30T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "costco",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 139709,
-  "provider_brand_name": "Costco",
-  "provider_location_id": "248",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:33.066+00:00",
-  "appointments_last_modified": "2021-04-30T05:50:33.066+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 170703752,
-  "url": "https://www.costco.com/covid-vaccine.html",
-  "city": "CRANBERRY TOWNSHIP",
-  "name": "Cranberry Township",
-  "state": "PA",
-  "address": "1050 CRANBERRY SQUARE DR",
-  "provider": "costco",
-  "time_zone": "America/New_York",
-  "postal_code": "16066",
-  "appointments": [
-    {
-      "time": "2021-05-04T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-07T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T10:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-08T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "costco",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 139709,
-  "provider_brand_name": "Costco",
-  "provider_location_id": "328",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:49:56.691+00:00",
-  "appointments_last_modified": "2021-04-30T05:49:56.691+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 170686830,
-  "url": "https://www.costco.com/covid-vaccine.html",
-  "city": "ALLENTOWN",
-  "name": "Allentown",
-  "state": "PA",
-  "address": "791 N KROCKS RD",
-  "provider": "costco",
-  "time_zone": "America/New_York",
-  "postal_code": "18106",
-  "appointments": [
-    {
-      "time": "2021-04-30T11:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:00:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:45:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T13:15:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T13:30:00.000-04:00",
-      "type": "Covid Dose 1",
-      "vaccine_types": [],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "costco",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 139709,
-  "provider_brand_name": "Costco",
-  "provider_location_id": "1211",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:49:54.418+00:00",
-  "appointments_last_modified": "2021-04-30T05:49:54.418+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
   "id": 170704128,
   "url": "https://www.costco.com/covid-vaccine.html",
   "city": "PITTSBURGH",
@@ -1748,241 +364,120 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:49:20.097+00:00",
-  "appointments_last_modified": "2021-04-30T05:49:20.097+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:42.343+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:42.343+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 141536520,
-  "url": "https://www.healthmartcovidvaccine.com/",
-  "city": "ALLISON PARK",
-  "name": "Hampton Pharmacy and Wellness",
+  "id": 143472155,
+  "url": "https://www.pricechopper.com/covidvaccine/",
+  "city": "Matamoras",
+  "name": "Price Chopper",
   "state": "PA",
-  "address": "4678 WILLIAM FLYNN HWY",
-  "provider": "health_mart",
+  "address": "1025 Pennsylvania Ave.",
+  "provider": "price_chopper",
   "time_zone": "America/New_York",
-  "postal_code": "15101",
+  "postal_code": "18336",
   "appointments": [
     {
-      "time": "2021-04-30T10:00:00.000-04:00"
+      "time": "2021-05-02T11:30:00.000-04:00"
     },
     {
-      "time": "2021-04-30T10:15:00.000-04:00"
+      "time": "2021-05-02T12:00:00.000-04:00"
     },
     {
-      "time": "2021-04-30T10:30:00.000-04:00"
+      "time": "2021-05-02T12:30:00.000-04:00"
     },
     {
-      "time": "2021-04-30T10:45:00.000-04:00"
+      "time": "2021-05-02T13:00:00.000-04:00"
     },
     {
-      "time": "2021-04-30T11:00:00.000-04:00"
+      "time": "2021-05-02T14:00:00.000-04:00"
     },
     {
-      "time": "2021-04-30T11:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T11:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T16:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T16:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T16:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T16:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T17:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T17:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T17:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T17:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T10:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T10:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T10:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T11:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T11:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T12:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T12:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T12:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T16:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T16:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T16:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T16:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T17:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T17:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T17:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T17:45:00.000-04:00"
+      "time": "2021-05-02T14:30:00.000-04:00"
     }
   ],
-  "provider_brand": "health_mart",
+  "provider_brand": "price_chopper",
   "carries_vaccine": null,
   "appointment_types": {
     "unknown": true
   },
-  "provider_brand_id": 96517,
-  "provider_brand_name": "Health Mart",
-  "provider_location_id": "21100",
+  "provider_brand_id": 99377,
+  "provider_brand_name": "Price Chopper",
+  "provider_location_id": "202",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:33.061+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:33.061+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 143472158,
+  "url": "https://www.pricechopper.com/covidvaccine/",
+  "city": "Wyoming",
+  "name": "Price Chopper",
+  "state": "PA",
+  "address": "Midway Shop Ctr,  1026 Wyoming Ave",
+  "provider": "price_chopper",
+  "time_zone": "America/New_York",
+  "postal_code": "18644",
+  "appointments": [
+    {
+      "time": "2021-05-01T12:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T12:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T14:30:00.000-04:00"
+    }
+  ],
+  "provider_brand": "price_chopper",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 99377,
+  "provider_brand_name": "Price Chopper",
+  "provider_location_id": "173",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:32:33.061+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:33.061+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2262,8 +757,1745 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:19.94+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:19.94+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 141543838,
+  "url": "https://www.healthmartcovidvaccine.com/",
+  "city": "OIL CITY",
+  "name": "Darling's Oil City Pharmacy",
+  "state": "PA",
+  "address": "811 GRANDVIEW RD STE 200",
+  "provider": "health_mart",
+  "time_zone": "America/New_York",
+  "postal_code": "16301",
+  "appointments": [
+    {
+      "time": "2021-04-30T10:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T10:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:45:00.000-04:00"
+    }
+  ],
+  "provider_brand": "health_mart",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 96517,
+  "provider_brand_name": "Health Mart",
+  "provider_location_id": "19925",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:32:19.94+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:19.94+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 141535954,
+  "url": "https://www.healthmartcovidvaccine.com/",
+  "city": "Sugar Grove",
+  "name": "Darlings Sugar Health Mart Pharmacy",
+  "state": "PA",
+  "address": "17 FOREST STREET",
+  "provider": "health_mart",
+  "time_zone": "America/New_York",
+  "postal_code": "16350",
+  "appointments": [
+    {
+      "time": "2021-05-03T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:45:00.000-04:00"
+    }
+  ],
+  "provider_brand": "health_mart",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 96517,
+  "provider_brand_name": "Health Mart",
+  "provider_location_id": "5777",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:32:19.94+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:19.94+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 170686858,
+  "url": "https://www.costco.com/covid-vaccine.html",
+  "city": "GLEN MILLS",
+  "name": "Concordville",
+  "state": "PA",
+  "address": "700 EVERGREEN DR",
+  "provider": "costco",
+  "time_zone": "America/New_York",
+  "postal_code": "19342",
+  "appointments": [
+    {
+      "time": "2021-04-30T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T13:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T13:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T13:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "costco",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 139709,
+  "provider_brand_name": "Costco",
+  "provider_location_id": "1114",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:32:05.153+00:00",
+  "appointments_last_modified": "2021-04-30T06:32:05.153+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 170704130,
+  "url": "https://www.costco.com/covid-vaccine.html",
+  "city": "HOMESTEAD",
+  "name": "Homestead",
+  "state": "PA",
+  "address": "501 WATERFRONT DR W",
+  "provider": "costco",
+  "time_zone": "America/New_York",
+  "postal_code": "15120",
+  "appointments": [
+    {
+      "time": "2021-04-30T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "costco",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 139709,
+  "provider_brand_name": "Costco",
+  "provider_location_id": "649",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:31:50.736+00:00",
+  "appointments_last_modified": "2021-04-30T06:31:50.736+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 170703749,
+  "url": "https://www.costco.com/covid-vaccine.html",
+  "city": "HARRISBURG",
+  "name": "Harrisburg",
+  "state": "PA",
+  "address": "5125 JONESTOWN RD STE 221",
+  "provider": "costco",
+  "time_zone": "America/New_York",
+  "postal_code": "17112",
+  "appointments": [
+    {
+      "time": "2021-05-04T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "costco",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 139709,
+  "provider_brand_name": "Costco",
+  "provider_location_id": "327",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:31:49.564+00:00",
+  "appointments_last_modified": "2021-04-30T06:31:49.564+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 170686856,
+  "url": "https://www.costco.com/covid-vaccine.html",
+  "city": "NORTH WALES",
+  "name": "Montgomeryville",
+  "state": "PA",
+  "address": "740 UPPER STATE RD",
+  "provider": "costco",
+  "time_zone": "America/New_York",
+  "postal_code": "19454",
+  "appointments": [
+    {
+      "time": "2021-04-30T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "costco",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 139709,
+  "provider_brand_name": "Costco",
+  "provider_location_id": "248",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:31:43.295+00:00",
+  "appointments_last_modified": "2021-04-30T06:31:43.295+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 170703752,
+  "url": "https://www.costco.com/covid-vaccine.html",
+  "city": "CRANBERRY TOWNSHIP",
+  "name": "Cranberry Township",
+  "state": "PA",
+  "address": "1050 CRANBERRY SQUARE DR",
+  "provider": "costco",
+  "time_zone": "America/New_York",
+  "postal_code": "16066",
+  "appointments": [
+    {
+      "time": "2021-05-04T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-04T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-05T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-06T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-07T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T10:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-05-08T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "costco",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 139709,
+  "provider_brand_name": "Costco",
+  "provider_location_id": "328",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:31:06.229+00:00",
+  "appointments_last_modified": "2021-04-30T06:31:06.229+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 170686830,
+  "url": "https://www.costco.com/covid-vaccine.html",
+  "city": "ALLENTOWN",
+  "name": "Allentown",
+  "state": "PA",
+  "address": "791 N KROCKS RD",
+  "provider": "costco",
+  "time_zone": "America/New_York",
+  "postal_code": "18106",
+  "appointments": [
+    {
+      "time": "2021-04-30T11:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T11:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T11:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T11:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:00:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T12:45:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T13:15:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    },
+    {
+      "time": "2021-04-30T13:30:00.000-04:00",
+      "type": "Covid Dose 1",
+      "vaccine_types": [],
+      "appointment_types": []
+    }
+  ],
+  "provider_brand": "costco",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 139709,
+  "provider_brand_name": "Costco",
+  "provider_location_id": "1211",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:31:04.258+00:00",
+  "appointments_last_modified": "2021-04-30T06:31:04.258+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 141536520,
+  "url": "https://www.healthmartcovidvaccine.com/",
+  "city": "ALLISON PARK",
+  "name": "Hampton Pharmacy and Wellness",
+  "state": "PA",
+  "address": "4678 WILLIAM FLYNN HWY",
+  "provider": "health_mart",
+  "time_zone": "America/New_York",
+  "postal_code": "15101",
+  "appointments": [
+    {
+      "time": "2021-04-30T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T10:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T10:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T11:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T13:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T14:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T15:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T16:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T16:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T16:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T16:45:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T17:00:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T17:15:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T17:30:00.000-04:00"
+    },
+    {
+      "time": "2021-04-30T17:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T10:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T10:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T11:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T11:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T12:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T12:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T12:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T12:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T10:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T11:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T13:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T14:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T15:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T16:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T16:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T16:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T16:45:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T17:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T17:15:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T17:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-03T17:45:00.000-04:00"
+    }
+  ],
+  "provider_brand": "health_mart",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 96517,
+  "provider_brand_name": "Health Mart",
+  "provider_location_id": "21100",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2597,8 +2829,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2932,8 +3164,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3042,8 +3274,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3323,8 +3555,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3532,8 +3764,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3867,8 +4099,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4202,8 +4434,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4537,151 +4769,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 141543838,
-  "url": "https://www.healthmartcovidvaccine.com/",
-  "city": "OIL CITY",
-  "name": "Darling's Oil City Pharmacy",
-  "state": "PA",
-  "address": "811 GRANDVIEW RD STE 200",
-  "provider": "health_mart",
-  "time_zone": "America/New_York",
-  "postal_code": "16301",
-  "appointments": [
-    {
-      "time": "2021-04-30T10:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T10:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T11:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T11:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T13:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T14:45:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:00:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:15:00.000-04:00"
-    },
-    {
-      "time": "2021-04-30T15:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:45:00.000-04:00"
-    }
-  ],
-  "provider_brand": "health_mart",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 96517,
-  "provider_brand_name": "Health Mart",
-  "provider_location_id": "19925",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4943,97 +5032,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 141535954,
-  "url": "https://www.healthmartcovidvaccine.com/",
-  "city": "Sugar Grove",
-  "name": "Darlings Sugar Health Mart Pharmacy",
-  "state": "PA",
-  "address": "17 FOREST STREET",
-  "provider": "health_mart",
-  "time_zone": "America/New_York",
-  "postal_code": "16350",
-  "appointments": [
-    {
-      "time": "2021-05-03T10:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T10:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T11:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T13:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T14:45:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:15:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-03T15:45:00.000-04:00"
-    }
-  ],
-  "provider_brand": "health_mart",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 96517,
-  "provider_brand_name": "Health Mart",
-  "provider_location_id": "5777",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5235,8 +5235,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
-  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_fetched": "2021-04-30T06:30:52.745+00:00",
+  "appointments_last_modified": "2021-04-30T06:30:52.745+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5263,8 +5263,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5291,8 +5291,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5319,8 +5319,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5347,8 +5347,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5375,8 +5375,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5403,8 +5403,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5431,8 +5431,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5459,8 +5459,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5487,8 +5487,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5515,8 +5515,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5543,64 +5543,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045747,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 2833",
-  "state": "PA",
-  "address": "7700 Crittenden Ave.",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19118",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099446537",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045683,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 0114",
-  "state": "PA",
-  "address": "7010 Germantown Ave.",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19119",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098526512",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5627,21 +5571,21 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
 {
-  "id": 1045693,
+  "id": 1045747,
   "url": "https://www.albertsons.com/pharmacy/covid-19.html",
   "city": "Philadelphia",
-  "name": "Acme 0726",
+  "name": "Acme 2833",
   "state": "PA",
-  "address": "1400 Passyunk Ave",
+  "address": "7700 Crittenden Ave.",
   "provider": "albertsons",
   "time_zone": "America/New_York",
-  "postal_code": "19147",
+  "postal_code": "19118",
   "appointments": [],
   "provider_brand": "acme",
   "carries_vaccine": null,
@@ -5650,13 +5594,41 @@
   },
   "provider_brand_id": 9,
   "provider_brand_name": "Acme",
-  "provider_location_id": "1600098750882",
+  "provider_location_id": "1600099446537",
   "appointments_available": true,
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045683,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 0114",
+  "state": "PA",
+  "address": "7010 Germantown Ave.",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19119",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098526512",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5683,8 +5655,36 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045693,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 0726",
+  "state": "PA",
+  "address": "1400 Passyunk Ave",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19147",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098750882",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5711,8 +5711,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5739,1327 +5739,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
-  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 773497,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Honesdale",
-  "name": "Honesdale Supercenter",
-  "state": "PA",
-  "address": "723a Old Willow Ave",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "18431",
-  "appointments": [
-    {
-      "time": "2021-04-30T10:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T10:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T10:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T11:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T09:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T09:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T10:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T10:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T10:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T14:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T15:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T15:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T16:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T11:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T11:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T11:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T12:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T12:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T14:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T15:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T15:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T16:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T09:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T09:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T10:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T10:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T10:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T11:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T11:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T11:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T12:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T12:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T07:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T08:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T08:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T08:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T09:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T09:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T09:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T14:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T15:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T15:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T15:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T16:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T09:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T09:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T10:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T14:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T15:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T15:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T15:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T16:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T09:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T09:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T14:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T15:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T15:20:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T15:40:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T16:00:00.000-04:00",
-      "type": "Moderna, Johnson & Johnson",
-      "vaccine_types": [
-        "jj",
-        "moderna"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "2480",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "jj": true,
-    "moderna": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:25:21.327+00:00",
-  "appointments_last_modified": "2021-04-30T05:25:21.327+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 774060,
-  "url": "https://www.walmart.com/pharmacy/clinical-services/immunization/scheduled?imzType=covid",
-  "city": "Coal Township",
-  "name": "Coal Township Supercenter",
-  "state": "PA",
-  "address": "9300 State Route 61",
-  "provider": "walmart",
-  "time_zone": "America/New_York",
-  "postal_code": "17866",
-  "appointments": [
-    {
-      "time": "2021-04-30T11:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T12:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T15:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T15:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T16:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T16:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T16:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T17:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T17:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-04-30T18:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-01T15:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-02T12:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T15:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-03T15:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T06:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T06:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T07:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T07:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T07:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T08:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T08:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T10:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T11:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T12:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T14:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T15:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T15:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-04T16:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T11:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T12:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T14:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T15:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T15:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T15:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-05T16:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T10:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T11:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T12:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T14:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T15:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T15:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T15:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T16:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T16:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T16:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T17:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T17:20:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T17:40:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    },
-    {
-      "time": "2021-05-06T18:00:00.000-04:00",
-      "type": "Johnson & Johnson",
-      "vaccine_types": [
-        "jj"
-      ],
-      "appointment_types": []
-    }
-  ],
-  "provider_brand": "walmart",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 70,
-  "provider_brand_name": "Walmart",
-  "provider_location_id": "2481",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "jj": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:08:10.141+00:00",
-  "appointments_last_modified": "2021-04-30T05:08:10.141+00:00",
+  "appointments_last_fetched": "2021-04-30T06:32:36.715+00:00",
+  "appointments_last_modified": "2021-04-30T06:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
