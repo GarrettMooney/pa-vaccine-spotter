@@ -352,8 +352,120 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:29:19.178+00:00",
-  "appointments_last_modified": "2021-04-30T05:29:19.178+00:00",
+  "appointments_last_fetched": "2021-04-30T05:50:54.333+00:00",
+  "appointments_last_modified": "2021-04-30T05:50:54.333+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 143472155,
+  "url": "https://www.pricechopper.com/covidvaccine/",
+  "city": "Matamoras",
+  "name": "Price Chopper",
+  "state": "PA",
+  "address": "1025 Pennsylvania Ave.",
+  "provider": "price_chopper",
+  "time_zone": "America/New_York",
+  "postal_code": "18336",
+  "appointments": [
+    {
+      "time": "2021-05-02T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T12:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T12:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T14:30:00.000-04:00"
+    }
+  ],
+  "provider_brand": "price_chopper",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 99377,
+  "provider_brand_name": "Price Chopper",
+  "provider_location_id": "202",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:44.845+00:00",
+  "appointments_last_modified": "2021-04-30T05:50:44.845+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 143472158,
+  "url": "https://www.pricechopper.com/covidvaccine/",
+  "city": "Wyoming",
+  "name": "Price Chopper",
+  "state": "PA",
+  "address": "Midway Shop Ctr,  1026 Wyoming Ave",
+  "provider": "price_chopper",
+  "time_zone": "America/New_York",
+  "postal_code": "18644",
+  "appointments": [
+    {
+      "time": "2021-05-01T12:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-01T14:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T10:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T10:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T11:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T11:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T12:30:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T13:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T14:00:00.000-04:00"
+    },
+    {
+      "time": "2021-05-02T14:30:00.000-04:00"
+    }
+  ],
+  "provider_brand": "price_chopper",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 99377,
+  "provider_brand_name": "Price Chopper",
+  "provider_location_id": "173",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:44.845+00:00",
+  "appointments_last_modified": "2021-04-30T05:50:44.845+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -417,8 +529,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:29:05.587+00:00",
-  "appointments_last_modified": "2021-04-30T05:29:05.587+00:00",
+  "appointments_last_fetched": "2021-04-30T05:50:40.211+00:00",
+  "appointments_last_modified": "2021-04-30T05:50:40.211+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -776,120 +888,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:29:03.985+00:00",
-  "appointments_last_modified": "2021-04-30T05:29:03.985+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 143472155,
-  "url": "https://www.pricechopper.com/covidvaccine/",
-  "city": "Matamoras",
-  "name": "Price Chopper",
-  "state": "PA",
-  "address": "1025 Pennsylvania Ave.",
-  "provider": "price_chopper",
-  "time_zone": "America/New_York",
-  "postal_code": "18336",
-  "appointments": [
-    {
-      "time": "2021-05-02T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T12:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:30:00.000-04:00"
-    }
-  ],
-  "provider_brand": "price_chopper",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 99377,
-  "provider_brand_name": "Price Chopper",
-  "provider_location_id": "202",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:29:00.131+00:00",
-  "appointments_last_modified": "2021-04-30T05:29:00.131+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 143472158,
-  "url": "https://www.pricechopper.com/covidvaccine/",
-  "city": "Wyoming",
-  "name": "Price Chopper",
-  "state": "PA",
-  "address": "Midway Shop Ctr,  1026 Wyoming Ave",
-  "provider": "price_chopper",
-  "time_zone": "America/New_York",
-  "postal_code": "18644",
-  "appointments": [
-    {
-      "time": "2021-05-01T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-01T14:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T10:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T10:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T11:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T11:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T12:30:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T13:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:00:00.000-04:00"
-    },
-    {
-      "time": "2021-05-02T14:30:00.000-04:00"
-    }
-  ],
-  "provider_brand": "price_chopper",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 99377,
-  "provider_brand_name": "Price Chopper",
-  "provider_location_id": "173",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:29:00.131+00:00",
-  "appointments_last_modified": "2021-04-30T05:29:00.131+00:00",
+  "appointments_last_fetched": "2021-04-30T05:50:38.571+00:00",
+  "appointments_last_modified": "2021-04-30T05:50:38.571+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -923,8 +923,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:28:58.12+00:00",
-  "appointments_last_modified": "2021-04-30T05:28:58.12+00:00",
+  "appointments_last_fetched": "2021-04-30T05:50:33.066+00:00",
+  "appointments_last_modified": "2021-04-30T05:50:33.066+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -1288,8 +1288,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:28:20.714+00:00",
-  "appointments_last_modified": "2021-04-30T05:28:20.714+00:00",
+  "appointments_last_fetched": "2021-04-30T05:49:56.691+00:00",
+  "appointments_last_modified": "2021-04-30T05:49:56.691+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -1377,8 +1377,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:28:18.793+00:00",
-  "appointments_last_modified": "2021-04-30T05:28:18.793+00:00",
+  "appointments_last_fetched": "2021-04-30T05:49:54.418+00:00",
+  "appointments_last_modified": "2021-04-30T05:49:54.418+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -1748,8 +1748,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:46.95+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:46.95+00:00",
+  "appointments_last_fetched": "2021-04-30T05:49:20.097+00:00",
+  "appointments_last_modified": "2021-04-30T05:49:20.097+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -1981,8 +1981,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2262,8 +2262,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2597,8 +2597,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -2932,8 +2932,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3042,8 +3042,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3323,8 +3323,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3532,8 +3532,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -3867,8 +3867,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4202,8 +4202,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4537,8 +4537,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4680,8 +4680,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -4943,8 +4943,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5032,8 +5032,8 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -5235,8 +5235,512 @@
   "appointment_vaccine_types": {
     "unknown": true
   },
-  "appointments_last_fetched": "2021-04-30T05:27:31.222+00:00",
-  "appointments_last_modified": "2021-04-30T05:27:31.222+00:00",
+  "appointments_last_fetched": "2021-04-30T05:48:58.712+00:00",
+  "appointments_last_modified": "2021-04-30T05:48:58.712+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045694,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Avondale",
+  "name": "Acme 0730",
+  "state": "PA",
+  "address": "851 Gap Newport Pike",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19311",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098763865",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045767,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Broomall",
+  "name": "Acme 3798",
+  "state": "PA",
+  "address": "567 Sproul Road",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19008",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099695442",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045691,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Chester Springs",
+  "name": "Acme 0703",
+  "state": "PA",
+  "address": "400 Simpson Drive Unit A",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19425",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098724972",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045696,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Cornwells Heights",
+  "name": "Acme 0779",
+  "state": "PA",
+  "address": "100 Woodhaven Mall",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19020",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098789488",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045761,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Cornwells Heights",
+  "name": "Acme 3719",
+  "state": "PA",
+  "address": "2301 Bristol Road",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19020",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099620660",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045765,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Doylestown",
+  "name": "Acme 3784",
+  "state": "PA",
+  "address": "480 North Main Street",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "18901",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099670436",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045778,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Flourtown",
+  "name": "Acme 4723",
+  "state": "PA",
+  "address": "1640 Bethlehem Pike",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19031",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099831218",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045695,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Jenkintown",
+  "name": "Acme 0769",
+  "state": "PA",
+  "address": "323 Old York Road",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19046",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098776807",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045756,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Levittown",
+  "name": "Acme 2977",
+  "state": "PA",
+  "address": "6800 New Falls Road",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19057",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099558638",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045780,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Newtown",
+  "name": "Acme 4913",
+  "state": "PA",
+  "address": "48 West Road",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "18940",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099856054",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045685,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Paoli",
+  "name": "Acme 0192",
+  "state": "PA",
+  "address": "39 Leopard Road",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19301",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098647708",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045747,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 2833",
+  "state": "PA",
+  "address": "7700 Crittenden Ave.",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19118",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099446537",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045683,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 0114",
+  "state": "PA",
+  "address": "7010 Germantown Ave.",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19119",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098526512",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045686,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 0291",
+  "state": "PA",
+  "address": "180 West Girard Ave",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19123",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098660395",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045693,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 0726",
+  "state": "PA",
+  "address": "1400 Passyunk Ave",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19147",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098750882",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045777,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Philadelphia",
+  "name": "Acme 4715",
+  "state": "PA",
+  "address": "1901 Johnston Street",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19145",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": null,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600099818869",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045692,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "Phoenixville",
+  "name": "Acme 0721",
+  "state": "PA",
+  "address": "785 Starr Street",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19460",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098738102",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
+  "appointments_available_all_doses": true,
+  "appointments_available_2nd_dose_only": false
+}
+{
+  "id": 1045707,
+  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
+  "city": "West Chester",
+  "name": "Acme 0882",
+  "state": "PA",
+  "address": "907 Paoli Pike",
+  "provider": "albertsons",
+  "time_zone": "America/New_York",
+  "postal_code": "19380",
+  "appointments": [],
+  "provider_brand": "acme",
+  "carries_vaccine": true,
+  "appointment_types": {
+    "unknown": true
+  },
+  "provider_brand_id": 9,
+  "provider_brand_name": "Acme",
+  "provider_location_id": "1600098932926",
+  "appointments_available": true,
+  "appointment_vaccine_types": {
+    "unknown": true
+  },
+  "appointments_last_fetched": "2021-04-30T05:50:31.061+00:00",
+  "appointments_last_modified": "2021-04-30T05:33:32+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
@@ -6556,538 +7060,6 @@
   },
   "appointments_last_fetched": "2021-04-30T05:08:10.141+00:00",
   "appointments_last_modified": "2021-04-30T05:08:10.141+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045694,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Avondale",
-  "name": "Acme 0730",
-  "state": "PA",
-  "address": "851 Gap Newport Pike",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19311",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098763865",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045767,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Broomall",
-  "name": "Acme 3798",
-  "state": "PA",
-  "address": "567 Sproul Road",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19008",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099695442",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045691,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Chester Springs",
-  "name": "Acme 0703",
-  "state": "PA",
-  "address": "400 Simpson Drive Unit A",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19425",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098724972",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045761,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Cornwells Heights",
-  "name": "Acme 3719",
-  "state": "PA",
-  "address": "2301 Bristol Road",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19020",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099620660",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045696,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Cornwells Heights",
-  "name": "Acme 0779",
-  "state": "PA",
-  "address": "100 Woodhaven Mall",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19020",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098789488",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045765,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Doylestown",
-  "name": "Acme 3784",
-  "state": "PA",
-  "address": "480 North Main Street",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "18901",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099670436",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045778,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Flourtown",
-  "name": "Acme 4723",
-  "state": "PA",
-  "address": "1640 Bethlehem Pike",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19031",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099831218",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045695,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Jenkintown",
-  "name": "Acme 0769",
-  "state": "PA",
-  "address": "323 Old York Road",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19046",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098776807",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045756,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Levittown",
-  "name": "Acme 2977",
-  "state": "PA",
-  "address": "6800 New Falls Road",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19057",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099558638",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045780,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Newtown",
-  "name": "Acme 4913",
-  "state": "PA",
-  "address": "48 West Road",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "18940",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099856054",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045685,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Paoli",
-  "name": "Acme 0192",
-  "state": "PA",
-  "address": "39 Leopard Road",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19301",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098647708",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045777,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 4715",
-  "state": "PA",
-  "address": "1901 Johnston Street",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19145",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099818869",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045724,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 1725",
-  "state": "PA",
-  "address": "8200 Roosevelt Blvd",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19152",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099154127",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045693,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 0726",
-  "state": "PA",
-  "address": "1400 Passyunk Ave",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19147",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098750882",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045686,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 0291",
-  "state": "PA",
-  "address": "180 West Girard Ave",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19123",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098660395",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045747,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 2833",
-  "state": "PA",
-  "address": "7700 Crittenden Ave.",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19118",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": null,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600099446537",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045683,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Philadelphia",
-  "name": "Acme 0114",
-  "state": "PA",
-  "address": "7010 Germantown Ave.",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19119",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098526512",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045692,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "Phoenixville",
-  "name": "Acme 0721",
-  "state": "PA",
-  "address": "785 Starr Street",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19460",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098738102",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
-  "appointments_available_all_doses": true,
-  "appointments_available_2nd_dose_only": false
-}
-{
-  "id": 1045707,
-  "url": "https://www.albertsons.com/pharmacy/covid-19.html",
-  "city": "West Chester",
-  "name": "Acme 0882",
-  "state": "PA",
-  "address": "907 Paoli Pike",
-  "provider": "albertsons",
-  "time_zone": "America/New_York",
-  "postal_code": "19380",
-  "appointments": [],
-  "provider_brand": "acme",
-  "carries_vaccine": true,
-  "appointment_types": {
-    "unknown": true
-  },
-  "provider_brand_id": 9,
-  "provider_brand_name": "Acme",
-  "provider_location_id": "1600098932926",
-  "appointments_available": true,
-  "appointment_vaccine_types": {
-    "unknown": true
-  },
-  "appointments_last_fetched": "2021-04-30T05:28:59.126+00:00",
-  "appointments_last_modified": "2021-04-30T05:03:29+00:00",
   "appointments_available_all_doses": true,
   "appointments_available_2nd_dose_only": false
 }
